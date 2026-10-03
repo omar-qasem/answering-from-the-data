@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Feed · demo</title>
+    <meta name="description" content="A social feed simulator for testing replies to customer comments." />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23111'/%3E%3Crect x='14' y='14' width='36' height='36' rx='11' fill='none' stroke='%23fff' stroke-width='5'/%3E%3Ccircle cx='32' cy='32' r='8' fill='none' stroke='%23fff' stroke-width='5'/%3E%3C/svg%3E" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="feed.css" />
+  </head>
+  <body>
+    <header class="top">
+      <div class="top-in">
+        <a class="wordmark" href="./" aria-label="Feed home">feed<span>demo</span></a>
+        <div class="top-icons">
+          <button class="ico" id="btn-new" title="New post" aria-label="New post">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="5" /><path d="M12 8v8M8 12h8" /></svg>
+          </button>
+          <button class="ico" title="Activity" aria-label="Activity" id="btn-activity">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"><path d="M12 20s-7.5-4.6-9.2-9.1C1.6 7.6 3.9 4.5 7.1 4.5c2 0 3.6 1.1 4.9 2.8 1.3-1.7 2.9-2.8 4.9-2.8 3.2 0 5.5 3.1 4.3 6.4C19.5 15.4 12 20 12 20Z" /></svg>
+            <i class="dot" id="activity-dot" hidden></i>
+          </button>
+        </div>
+      </div>
+    </header>
+    <div class="layout">
+      <main class="feed" id="feed">
+        <section class="stories" aria-label="Comment as">
+          <div class="stories-label">Comment as</div>
+          <div class="stories-row" id="stories"></div>
+        </section>
+        <div id="banner"></div>
+        <div id="posts"></div>
+      </main>
+      <aside class="side" id="side"></aside>
+    </div>
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script src="config.js"></script>
+    <script src="feed.js" defer></script>
+  </body>
+</html>

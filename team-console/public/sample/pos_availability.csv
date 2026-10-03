@@ -1,0 +1,937 @@
+store_id,store_name,store_type,area,city,region,sku,product_name,category,pack_size,quantity_on_shelf,availability_status,shelf_price_jod,last_updated,sales_rep
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,36,In Stock,2.09,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,0,Out of Stock,3.83,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,0,Out of Stock,2.38,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,56,In Stock,6.69,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-2020,Full Cream Milk Powder,Dairy,400 g,43,In Stock,4.12,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-2021,Full Cream Milk Powder,Dairy,900 g,54,In Stock,8.49,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,8,In Stock,16,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,0,Out of Stock,4.37,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-2024,Evaporated Milk,Dairy,410 g,34,In Stock,0.92,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-3030,Black Tea Loose,Beverages,400 g,37,In Stock,3.2,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-3031,Black Tea Bags,Beverages,100 bags,29,In Stock,2.67,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-3032,Green Tea Bags,Beverages,50 bags,1,Low Stock,2.04,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-3033,Instant Coffee,Beverages,200 g,0,Out of Stock,6.21,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-3034,Turkish Coffee Ground,Beverages,250 g,27,In Stock,2.76,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-4040,Tomato Paste,Canned Goods,800 g,48,In Stock,1.41,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,0,Out of Stock,0.82,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-4042,Chickpeas Canned,Canned Goods,400 g,2,Low Stock,0.63,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-4043,Fava Beans Canned,Canned Goods,400 g,5,Low Stock,0.58,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,41,In Stock,0.87,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-5050,White Rice Egyptian,Grains,1 kg,15,In Stock,1.21,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,29,In Stock,5.63,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-5053,Bulgur Coarse,Grains,1 kg,37,In Stock,1.07,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-5054,Freekeh,Grains,1 kg,11,In Stock,2.86,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-5055,Red Lentils,Grains,1 kg,4,Low Stock,1.46,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-6060,All Purpose Flour,Baking,1 kg,44,In Stock,0.73,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-6061,White Sugar,Baking,1 kg,44,In Stock,0.82,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,0,Out of Stock,0.68,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,3,Low Stock,0.78,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-7070,Tahini,Spreads,400 g,54,In Stock,3.1,19/08/2026,Omar Haddad
+ST-001,Sameh Mall Khalda,Hypermarket,Khalda,Amman,Central,SKU-7071,Halawa Plain,Spreads,450 g,12,In Stock,3.49,19/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,33,In Stock,2.09,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,5,Low Stock,3.83,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,0,Out of Stock,2.38,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,0,Out of Stock,6.69,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-2021,Full Cream Milk Powder,Dairy,900 g,0,Out of Stock,8.49,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,21,In Stock,16,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,41,In Stock,4.37,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-2024,Evaporated Milk,Dairy,410 g,4,Low Stock,0.92,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-3030,Black Tea Loose,Beverages,400 g,60,In Stock,3.2,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-3031,Black Tea Bags,Beverages,100 bags,32,In Stock,2.67,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-3032,Green Tea Bags,Beverages,50 bags,27,In Stock,2.04,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-3033,Instant Coffee,Beverages,200 g,15,In Stock,6.21,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-3034,Turkish Coffee Ground,Beverages,250 g,22,In Stock,2.76,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-4040,Tomato Paste,Canned Goods,800 g,52,In Stock,1.41,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,0,Out of Stock,0.82,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-4042,Chickpeas Canned,Canned Goods,400 g,15,In Stock,0.63,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-4043,Fava Beans Canned,Canned Goods,400 g,33,In Stock,0.58,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,0,Out of Stock,1.31,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,43,In Stock,0.87,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-5050,White Rice Egyptian,Grains,1 kg,1,Low Stock,1.21,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,51,In Stock,5.63,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-5052,Basmati Rice,Grains,1 kg,47,In Stock,2.33,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-5053,Bulgur Coarse,Grains,1 kg,0,Out of Stock,1.07,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-5054,Freekeh,Grains,1 kg,2,Low Stock,2.86,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-5055,Red Lentils,Grains,1 kg,12,In Stock,1.46,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-6060,All Purpose Flour,Baking,1 kg,56,In Stock,0.73,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-6061,White Sugar,Baking,1 kg,0,Out of Stock,0.82,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,40,In Stock,0.68,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,20,In Stock,0.78,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-7070,Tahini,Spreads,400 g,60,In Stock,3.1,24/08/2026,Omar Haddad
+ST-002,Sameh Mall Abdoun,Hypermarket,Abdoun,Amman,Central,SKU-7071,Halawa Plain,Spreads,450 g,5,Low Stock,3.49,24/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,0,Out of Stock,2.09,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,1,Low Stock,3.83,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,0,Out of Stock,2.38,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,60,In Stock,6.69,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-2020,Full Cream Milk Powder,Dairy,400 g,50,In Stock,4.12,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-2021,Full Cream Milk Powder,Dairy,900 g,2,Low Stock,8.49,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,24,In Stock,16,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,4,Low Stock,4.37,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-2024,Evaporated Milk,Dairy,410 g,44,In Stock,0.92,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-3030,Black Tea Loose,Beverages,400 g,26,In Stock,3.2,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-3032,Green Tea Bags,Beverages,50 bags,5,Low Stock,2.04,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-3033,Instant Coffee,Beverages,200 g,45,In Stock,6.21,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-3034,Turkish Coffee Ground,Beverages,250 g,0,Out of Stock,2.76,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-4040,Tomato Paste,Canned Goods,800 g,32,In Stock,1.41,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,10,In Stock,0.82,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-4042,Chickpeas Canned,Canned Goods,400 g,4,Low Stock,0.63,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-4043,Fava Beans Canned,Canned Goods,400 g,0,Out of Stock,0.58,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,4,Low Stock,1.31,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,31,In Stock,0.87,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-5050,White Rice Egyptian,Grains,1 kg,48,In Stock,1.21,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,51,In Stock,5.63,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-5052,Basmati Rice,Grains,1 kg,33,In Stock,2.33,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-5053,Bulgur Coarse,Grains,1 kg,30,In Stock,1.07,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-5054,Freekeh,Grains,1 kg,47,In Stock,2.86,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-5055,Red Lentils,Grains,1 kg,37,In Stock,1.46,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-6060,All Purpose Flour,Baking,1 kg,19,In Stock,0.73,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-6061,White Sugar,Baking,1 kg,54,In Stock,0.82,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,5,Low Stock,0.68,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,2,Low Stock,0.78,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-7070,Tahini,Spreads,400 g,25,In Stock,3.1,16/08/2026,Omar Haddad
+ST-003,Carrefour City Mall,Hypermarket,Al Madina Al Munawara,Amman,Central,SKU-7071,Halawa Plain,Spreads,450 g,1,Low Stock,3.49,16/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,0,Out of Stock,2.09,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,17,In Stock,3.83,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,30,In Stock,2.38,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,12,In Stock,6.69,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-2021,Full Cream Milk Powder,Dairy,900 g,49,In Stock,8.49,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,49,In Stock,16,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,7,In Stock,4.37,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-2024,Evaporated Milk,Dairy,410 g,60,In Stock,0.92,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-3031,Black Tea Bags,Beverages,100 bags,21,In Stock,2.67,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-3032,Green Tea Bags,Beverages,50 bags,30,In Stock,2.04,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-3033,Instant Coffee,Beverages,200 g,31,In Stock,6.21,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-3034,Turkish Coffee Ground,Beverages,250 g,23,In Stock,2.76,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-4040,Tomato Paste,Canned Goods,800 g,5,Low Stock,1.41,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,19,In Stock,0.82,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-4042,Chickpeas Canned,Canned Goods,400 g,3,Low Stock,0.63,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-4043,Fava Beans Canned,Canned Goods,400 g,8,In Stock,0.58,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,34,In Stock,1.31,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,40,In Stock,0.87,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-5050,White Rice Egyptian,Grains,1 kg,0,Out of Stock,1.21,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,6,In Stock,5.63,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-5052,Basmati Rice,Grains,1 kg,56,In Stock,2.33,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-5053,Bulgur Coarse,Grains,1 kg,59,In Stock,1.07,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-5054,Freekeh,Grains,1 kg,31,In Stock,2.86,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-5055,Red Lentils,Grains,1 kg,42,In Stock,1.46,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-6060,All Purpose Flour,Baking,1 kg,4,Low Stock,0.73,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-6061,White Sugar,Baking,1 kg,43,In Stock,0.82,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,59,In Stock,0.68,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,2,Low Stock,0.78,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-7070,Tahini,Spreads,400 g,39,In Stock,3.1,20/08/2026,Omar Haddad
+ST-004,Carrefour Galleria,Hypermarket,Swaifieh,Amman,Central,SKU-7071,Halawa Plain,Spreads,450 g,36,In Stock,3.49,20/08/2026,Omar Haddad
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,15,In Stock,2.09,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,46,In Stock,3.83,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,1,Low Stock,2.38,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,59,In Stock,6.69,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-2020,Full Cream Milk Powder,Dairy,400 g,9,In Stock,4.12,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-2021,Full Cream Milk Powder,Dairy,900 g,23,In Stock,8.49,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,16,In Stock,16,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,28,In Stock,4.37,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-2024,Evaporated Milk,Dairy,410 g,50,In Stock,0.92,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-3030,Black Tea Loose,Beverages,400 g,0,Out of Stock,3.2,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-3031,Black Tea Bags,Beverages,100 bags,20,In Stock,2.67,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-3032,Green Tea Bags,Beverages,50 bags,28,In Stock,2.04,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-3033,Instant Coffee,Beverages,200 g,47,In Stock,6.21,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-3034,Turkish Coffee Ground,Beverages,250 g,4,Low Stock,2.76,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-4040,Tomato Paste,Canned Goods,800 g,0,Out of Stock,1.41,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,23,In Stock,0.82,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-4042,Chickpeas Canned,Canned Goods,400 g,55,In Stock,0.63,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-4043,Fava Beans Canned,Canned Goods,400 g,44,In Stock,0.58,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,0,Out of Stock,1.31,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,0,Out of Stock,0.87,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-5050,White Rice Egyptian,Grains,1 kg,1,Low Stock,1.21,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,22,In Stock,5.63,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-5052,Basmati Rice,Grains,1 kg,2,Low Stock,2.33,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-5053,Bulgur Coarse,Grains,1 kg,0,Out of Stock,1.07,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-5054,Freekeh,Grains,1 kg,20,In Stock,2.86,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-6060,All Purpose Flour,Baking,1 kg,3,Low Stock,0.73,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-6061,White Sugar,Baking,1 kg,44,In Stock,0.82,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,58,In Stock,0.68,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,7,In Stock,0.78,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-7070,Tahini,Spreads,400 g,0,Out of Stock,3.1,13/08/2026,Rami Barakat
+ST-005,Safeway 7th Circle,Hypermarket,Um Uthaina,Amman,Central,SKU-7071,Halawa Plain,Spreads,450 g,0,Out of Stock,3.49,13/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,40,In Stock,2.15,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,0,Out of Stock,3.95,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,21,In Stock,2.45,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,35,In Stock,6.9,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-2020,Full Cream Milk Powder,Dairy,400 g,2,Low Stock,4.25,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-2021,Full Cream Milk Powder,Dairy,900 g,30,In Stock,8.75,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,8,In Stock,16.5,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,8,In Stock,4.5,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-2024,Evaporated Milk,Dairy,410 g,34,In Stock,0.95,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-3031,Black Tea Bags,Beverages,100 bags,2,Low Stock,2.75,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-3032,Green Tea Bags,Beverages,50 bags,6,In Stock,2.1,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-3033,Instant Coffee,Beverages,200 g,0,Out of Stock,6.4,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-3034,Turkish Coffee Ground,Beverages,250 g,4,Low Stock,2.85,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-4040,Tomato Paste,Canned Goods,800 g,52,In Stock,1.45,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,1,Low Stock,0.85,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-4042,Chickpeas Canned,Canned Goods,400 g,0,Out of Stock,0.65,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-4043,Fava Beans Canned,Canned Goods,400 g,28,In Stock,0.6,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,44,In Stock,1.35,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,22,In Stock,0.9,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-5050,White Rice Egyptian,Grains,1 kg,22,In Stock,1.25,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,13,In Stock,5.8,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-5053,Bulgur Coarse,Grains,1 kg,1,Low Stock,1.1,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-5054,Freekeh,Grains,1 kg,14,In Stock,2.95,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-5055,Red Lentils,Grains,1 kg,3,Low Stock,1.5,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-6060,All Purpose Flour,Baking,1 kg,47,In Stock,0.75,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-6061,White Sugar,Baking,1 kg,37,In Stock,0.85,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,8,In Stock,0.7,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,47,In Stock,0.8,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-7070,Tahini,Spreads,400 g,59,In Stock,3.2,22/08/2026,Rami Barakat
+ST-006,Safeway Shmeisani,Supermarket,Shmeisani,Amman,Central,SKU-7071,Halawa Plain,Spreads,450 g,50,In Stock,3.6,22/08/2026,Rami Barakat
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,0,Out of Stock,2.15,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,52,In Stock,3.95,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,4,Low Stock,2.45,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,0,Out of Stock,6.9,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-2020,Full Cream Milk Powder,Dairy,400 g,46,In Stock,4.25,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,34,In Stock,16.5,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,38,In Stock,4.5,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-2024,Evaporated Milk,Dairy,410 g,20,In Stock,0.95,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-3030,Black Tea Loose,Beverages,400 g,35,In Stock,3.3,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-3032,Green Tea Bags,Beverages,50 bags,0,Out of Stock,2.1,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-3033,Instant Coffee,Beverages,200 g,15,In Stock,6.4,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-3034,Turkish Coffee Ground,Beverages,250 g,3,Low Stock,2.85,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-4040,Tomato Paste,Canned Goods,800 g,9,In Stock,1.45,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,6,In Stock,0.85,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-4042,Chickpeas Canned,Canned Goods,400 g,2,Low Stock,0.65,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-4043,Fava Beans Canned,Canned Goods,400 g,47,In Stock,0.6,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,54,In Stock,1.35,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,2,Low Stock,0.9,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-5050,White Rice Egyptian,Grains,1 kg,21,In Stock,1.25,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,21,In Stock,5.8,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-5052,Basmati Rice,Grains,1 kg,58,In Stock,2.4,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-5054,Freekeh,Grains,1 kg,4,Low Stock,2.95,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-5055,Red Lentils,Grains,1 kg,49,In Stock,1.5,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-6060,All Purpose Flour,Baking,1 kg,1,Low Stock,0.75,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-6061,White Sugar,Baking,1 kg,31,In Stock,0.85,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,17,In Stock,0.7,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,55,In Stock,0.8,25/08/2026,Laith Qasem
+ST-007,Cozmo Waibdeh,Supermarket,Jabal Al Weibdeh,Amman,Central,SKU-7071,Halawa Plain,Spreads,450 g,5,Low Stock,3.6,25/08/2026,Laith Qasem
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,3,Low Stock,2.15,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,1,Low Stock,3.95,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,37,In Stock,2.45,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,2,Low Stock,6.9,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-2020,Full Cream Milk Powder,Dairy,400 g,23,In Stock,4.25,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-2021,Full Cream Milk Powder,Dairy,900 g,20,In Stock,8.75,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,4,Low Stock,16.5,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,36,In Stock,4.5,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-2024,Evaporated Milk,Dairy,410 g,0,Out of Stock,0.95,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-3030,Black Tea Loose,Beverages,400 g,46,In Stock,3.3,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-3031,Black Tea Bags,Beverages,100 bags,17,In Stock,2.75,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-3032,Green Tea Bags,Beverages,50 bags,38,In Stock,2.1,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-3033,Instant Coffee,Beverages,200 g,19,In Stock,6.4,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-3034,Turkish Coffee Ground,Beverages,250 g,0,Out of Stock,2.85,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-4040,Tomato Paste,Canned Goods,800 g,4,Low Stock,1.45,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,60,In Stock,0.85,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-4042,Chickpeas Canned,Canned Goods,400 g,44,In Stock,0.65,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,15,In Stock,1.35,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,0,Out of Stock,0.9,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,1,Low Stock,5.8,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-5053,Bulgur Coarse,Grains,1 kg,0,Out of Stock,1.1,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-5054,Freekeh,Grains,1 kg,56,In Stock,2.95,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-5055,Red Lentils,Grains,1 kg,46,In Stock,1.5,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-6060,All Purpose Flour,Baking,1 kg,0,Out of Stock,0.75,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-6061,White Sugar,Baking,1 kg,0,Out of Stock,0.85,21/08/2026,Omar Haddad
+ST-008,Cozmo Dabouq,Supermarket,Dabouq,Amman,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,13,In Stock,0.7,21/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,2,Low Stock,2.15,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,48,In Stock,2.45,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-2020,Full Cream Milk Powder,Dairy,400 g,9,In Stock,4.25,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-2021,Full Cream Milk Powder,Dairy,900 g,11,In Stock,8.75,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,36,In Stock,16.5,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,13,In Stock,4.5,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-2024,Evaporated Milk,Dairy,410 g,47,In Stock,0.95,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-3030,Black Tea Loose,Beverages,400 g,4,Low Stock,3.3,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-3031,Black Tea Bags,Beverages,100 bags,0,Out of Stock,2.75,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-3032,Green Tea Bags,Beverages,50 bags,6,In Stock,2.1,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-3033,Instant Coffee,Beverages,200 g,3,Low Stock,6.4,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-3034,Turkish Coffee Ground,Beverages,250 g,0,Out of Stock,2.85,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,39,In Stock,0.85,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-4042,Chickpeas Canned,Canned Goods,400 g,0,Out of Stock,0.65,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-4043,Fava Beans Canned,Canned Goods,400 g,58,In Stock,0.6,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,2,Low Stock,1.35,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,16,In Stock,0.9,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-5050,White Rice Egyptian,Grains,1 kg,5,Low Stock,1.25,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,2,Low Stock,5.8,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-5052,Basmati Rice,Grains,1 kg,2,Low Stock,2.4,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-5055,Red Lentils,Grains,1 kg,54,In Stock,1.5,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-6060,All Purpose Flour,Baking,1 kg,52,In Stock,0.75,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-6061,White Sugar,Baking,1 kg,19,In Stock,0.85,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,56,In Stock,0.7,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-7070,Tahini,Spreads,400 g,2,Low Stock,3.2,18/08/2026,Omar Haddad
+ST-009,Miles Supermarket Tlaa Al Ali,Supermarket,Tlaa Al Ali,Amman,Central,SKU-7071,Halawa Plain,Spreads,450 g,58,In Stock,3.6,18/08/2026,Omar Haddad
+ST-010,Al Salam Market Sweifieh,Supermarket,Swaifieh,Amman,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,0,Out of Stock,2.45,13/08/2026,Laith Qasem
+ST-010,Al Salam Market Sweifieh,Supermarket,Swaifieh,Amman,Central,SKU-2020,Full Cream Milk Powder,Dairy,400 g,2,Low Stock,4.25,13/08/2026,Laith Qasem
+ST-010,Al Salam Market Sweifieh,Supermarket,Swaifieh,Amman,Central,SKU-2021,Full Cream Milk Powder,Dairy,900 g,9,In Stock,8.75,13/08/2026,Laith Qasem
+ST-010,Al Salam Market Sweifieh,Supermarket,Swaifieh,Amman,Central,SKU-2024,Evaporated Milk,Dairy,410 g,4,Low Stock,0.95,13/08/2026,Laith Qasem
+ST-010,Al Salam Market Sweifieh,Supermarket,Swaifieh,Amman,Central,SKU-3034,Turkish Coffee Ground,Beverages,250 g,55,In Stock,2.85,13/08/2026,Laith Qasem
+ST-010,Al Salam Market Sweifieh,Supermarket,Swaifieh,Amman,Central,SKU-4040,Tomato Paste,Canned Goods,800 g,15,In Stock,1.45,13/08/2026,Laith Qasem
+ST-010,Al Salam Market Sweifieh,Supermarket,Swaifieh,Amman,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,10,In Stock,0.85,13/08/2026,Laith Qasem
+ST-010,Al Salam Market Sweifieh,Supermarket,Swaifieh,Amman,Central,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,44,In Stock,0.9,13/08/2026,Laith Qasem
+ST-010,Al Salam Market Sweifieh,Supermarket,Swaifieh,Amman,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,22,In Stock,5.8,13/08/2026,Laith Qasem
+ST-010,Al Salam Market Sweifieh,Supermarket,Swaifieh,Amman,Central,SKU-5052,Basmati Rice,Grains,1 kg,54,In Stock,2.4,13/08/2026,Laith Qasem
+ST-010,Al Salam Market Sweifieh,Supermarket,Swaifieh,Amman,Central,SKU-5054,Freekeh,Grains,1 kg,0,Out of Stock,2.95,13/08/2026,Laith Qasem
+ST-010,Al Salam Market Sweifieh,Supermarket,Swaifieh,Amman,Central,SKU-5055,Red Lentils,Grains,1 kg,0,Out of Stock,1.5,13/08/2026,Laith Qasem
+ST-010,Al Salam Market Sweifieh,Supermarket,Swaifieh,Amman,Central,SKU-6060,All Purpose Flour,Baking,1 kg,55,In Stock,0.75,13/08/2026,Laith Qasem
+ST-010,Al Salam Market Sweifieh,Supermarket,Swaifieh,Amman,Central,SKU-6061,White Sugar,Baking,1 kg,13,In Stock,0.85,13/08/2026,Laith Qasem
+ST-010,Al Salam Market Sweifieh,Supermarket,Swaifieh,Amman,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,11,In Stock,0.7,13/08/2026,Laith Qasem
+ST-010,Al Salam Market Sweifieh,Supermarket,Swaifieh,Amman,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,0,Out of Stock,0.8,13/08/2026,Laith Qasem
+ST-010,Al Salam Market Sweifieh,Supermarket,Swaifieh,Amman,Central,SKU-7070,Tahini,Spreads,400 g,38,In Stock,3.2,13/08/2026,Laith Qasem
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,5,Low Stock,2.15,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,53,In Stock,3.95,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,20,In Stock,2.45,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,0,Out of Stock,6.9,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-2020,Full Cream Milk Powder,Dairy,400 g,5,Low Stock,4.25,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-2021,Full Cream Milk Powder,Dairy,900 g,0,Out of Stock,8.75,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,3,Low Stock,16.5,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-2024,Evaporated Milk,Dairy,410 g,23,In Stock,0.95,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-3030,Black Tea Loose,Beverages,400 g,44,In Stock,3.3,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-3031,Black Tea Bags,Beverages,100 bags,13,In Stock,2.75,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-3033,Instant Coffee,Beverages,200 g,40,In Stock,6.4,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-3034,Turkish Coffee Ground,Beverages,250 g,55,In Stock,2.85,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-4040,Tomato Paste,Canned Goods,800 g,0,Out of Stock,1.45,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,33,In Stock,0.85,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-4042,Chickpeas Canned,Canned Goods,400 g,0,Out of Stock,0.65,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,17,In Stock,1.35,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,24,In Stock,0.9,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,0,Out of Stock,5.8,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-5052,Basmati Rice,Grains,1 kg,52,In Stock,2.4,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-5053,Bulgur Coarse,Grains,1 kg,0,Out of Stock,1.1,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-5054,Freekeh,Grains,1 kg,20,In Stock,2.95,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-5055,Red Lentils,Grains,1 kg,29,In Stock,1.5,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-6061,White Sugar,Baking,1 kg,22,In Stock,0.85,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,0,Out of Stock,0.7,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,27,In Stock,0.8,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-7070,Tahini,Spreads,400 g,0,Out of Stock,3.2,17/08/2026,Rami Barakat
+ST-011,Nazih Market Jubaiha,Supermarket,Al Jubaiha,Amman,Central,SKU-7071,Halawa Plain,Spreads,450 g,26,In Stock,3.6,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,1,Low Stock,2.15,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,49,In Stock,3.95,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,0,Out of Stock,2.45,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,31,In Stock,6.9,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-2020,Full Cream Milk Powder,Dairy,400 g,56,In Stock,4.25,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-2021,Full Cream Milk Powder,Dairy,900 g,17,In Stock,8.75,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,16,In Stock,4.5,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-2024,Evaporated Milk,Dairy,410 g,0,Out of Stock,0.95,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-3030,Black Tea Loose,Beverages,400 g,2,Low Stock,3.3,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-3031,Black Tea Bags,Beverages,100 bags,1,Low Stock,2.75,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-3032,Green Tea Bags,Beverages,50 bags,13,In Stock,2.1,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-4040,Tomato Paste,Canned Goods,800 g,52,In Stock,1.45,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,52,In Stock,0.85,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-4043,Fava Beans Canned,Canned Goods,400 g,5,Low Stock,0.6,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,39,In Stock,1.35,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,12,In Stock,0.9,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-5050,White Rice Egyptian,Grains,1 kg,34,In Stock,1.25,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-5052,Basmati Rice,Grains,1 kg,0,Out of Stock,2.4,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-5054,Freekeh,Grains,1 kg,9,In Stock,2.95,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-5055,Red Lentils,Grains,1 kg,5,Low Stock,1.5,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-6060,All Purpose Flour,Baking,1 kg,23,In Stock,0.75,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-6061,White Sugar,Baking,1 kg,20,In Stock,0.85,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,0,Out of Stock,0.7,17/08/2026,Rami Barakat
+ST-012,Al Manaseer Marka,Supermarket,Marka,Amman,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,27,In Stock,0.8,17/08/2026,Rami Barakat
+ST-013,Baraka Mini Market Nazzal,Mini Market,Nazzal,Amman,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,3,Low Stock,2.26,20/08/2026,Omar Haddad
+ST-013,Baraka Mini Market Nazzal,Mini Market,Nazzal,Amman,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,23,In Stock,2.57,20/08/2026,Omar Haddad
+ST-013,Baraka Mini Market Nazzal,Mini Market,Nazzal,Amman,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,37,In Stock,7.25,20/08/2026,Omar Haddad
+ST-013,Baraka Mini Market Nazzal,Mini Market,Nazzal,Amman,Central,SKU-2021,Full Cream Milk Powder,Dairy,900 g,4,Low Stock,9.19,20/08/2026,Omar Haddad
+ST-013,Baraka Mini Market Nazzal,Mini Market,Nazzal,Amman,Central,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,22,In Stock,17.32,20/08/2026,Omar Haddad
+ST-013,Baraka Mini Market Nazzal,Mini Market,Nazzal,Amman,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,2,Low Stock,4.73,20/08/2026,Omar Haddad
+ST-013,Baraka Mini Market Nazzal,Mini Market,Nazzal,Amman,Central,SKU-2024,Evaporated Milk,Dairy,410 g,0,Out of Stock,1,20/08/2026,Omar Haddad
+ST-013,Baraka Mini Market Nazzal,Mini Market,Nazzal,Amman,Central,SKU-3030,Black Tea Loose,Beverages,400 g,39,In Stock,3.46,20/08/2026,Omar Haddad
+ST-013,Baraka Mini Market Nazzal,Mini Market,Nazzal,Amman,Central,SKU-3031,Black Tea Bags,Beverages,100 bags,0,Out of Stock,2.89,20/08/2026,Omar Haddad
+ST-013,Baraka Mini Market Nazzal,Mini Market,Nazzal,Amman,Central,SKU-3032,Green Tea Bags,Beverages,50 bags,39,In Stock,2.21,20/08/2026,Omar Haddad
+ST-013,Baraka Mini Market Nazzal,Mini Market,Nazzal,Amman,Central,SKU-3034,Turkish Coffee Ground,Beverages,250 g,4,Low Stock,2.99,20/08/2026,Omar Haddad
+ST-013,Baraka Mini Market Nazzal,Mini Market,Nazzal,Amman,Central,SKU-4043,Fava Beans Canned,Canned Goods,400 g,2,Low Stock,0.63,20/08/2026,Omar Haddad
+ST-013,Baraka Mini Market Nazzal,Mini Market,Nazzal,Amman,Central,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,16,In Stock,1.42,20/08/2026,Omar Haddad
+ST-013,Baraka Mini Market Nazzal,Mini Market,Nazzal,Amman,Central,SKU-5050,White Rice Egyptian,Grains,1 kg,31,In Stock,1.31,20/08/2026,Omar Haddad
+ST-013,Baraka Mini Market Nazzal,Mini Market,Nazzal,Amman,Central,SKU-5055,Red Lentils,Grains,1 kg,43,In Stock,1.58,20/08/2026,Omar Haddad
+ST-013,Baraka Mini Market Nazzal,Mini Market,Nazzal,Amman,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,2,Low Stock,0.84,20/08/2026,Omar Haddad
+ST-014,Al Rawnaq Grocery Jabal Nasr,Grocery,Jabal Al Nasr,Amman,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,0,Out of Stock,2.32,20/08/2026,Laith Qasem
+ST-014,Al Rawnaq Grocery Jabal Nasr,Grocery,Jabal Al Nasr,Amman,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,14,In Stock,2.65,20/08/2026,Laith Qasem
+ST-014,Al Rawnaq Grocery Jabal Nasr,Grocery,Jabal Al Nasr,Amman,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,43,In Stock,7.45,20/08/2026,Laith Qasem
+ST-014,Al Rawnaq Grocery Jabal Nasr,Grocery,Jabal Al Nasr,Amman,Central,SKU-2020,Full Cream Milk Powder,Dairy,400 g,0,Out of Stock,4.59,20/08/2026,Laith Qasem
+ST-014,Al Rawnaq Grocery Jabal Nasr,Grocery,Jabal Al Nasr,Amman,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,0,Out of Stock,4.86,20/08/2026,Laith Qasem
+ST-014,Al Rawnaq Grocery Jabal Nasr,Grocery,Jabal Al Nasr,Amman,Central,SKU-3031,Black Tea Bags,Beverages,100 bags,17,In Stock,2.97,20/08/2026,Laith Qasem
+ST-014,Al Rawnaq Grocery Jabal Nasr,Grocery,Jabal Al Nasr,Amman,Central,SKU-3033,Instant Coffee,Beverages,200 g,16,In Stock,6.91,20/08/2026,Laith Qasem
+ST-014,Al Rawnaq Grocery Jabal Nasr,Grocery,Jabal Al Nasr,Amman,Central,SKU-4042,Chickpeas Canned,Canned Goods,400 g,20,In Stock,0.7,20/08/2026,Laith Qasem
+ST-014,Al Rawnaq Grocery Jabal Nasr,Grocery,Jabal Al Nasr,Amman,Central,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,1,Low Stock,0.97,20/08/2026,Laith Qasem
+ST-014,Al Rawnaq Grocery Jabal Nasr,Grocery,Jabal Al Nasr,Amman,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,56,In Stock,6.26,20/08/2026,Laith Qasem
+ST-014,Al Rawnaq Grocery Jabal Nasr,Grocery,Jabal Al Nasr,Amman,Central,SKU-5053,Bulgur Coarse,Grains,1 kg,0,Out of Stock,1.19,20/08/2026,Laith Qasem
+ST-014,Al Rawnaq Grocery Jabal Nasr,Grocery,Jabal Al Nasr,Amman,Central,SKU-5055,Red Lentils,Grains,1 kg,27,In Stock,1.62,20/08/2026,Laith Qasem
+ST-014,Al Rawnaq Grocery Jabal Nasr,Grocery,Jabal Al Nasr,Amman,Central,SKU-6060,All Purpose Flour,Baking,1 kg,36,In Stock,0.81,20/08/2026,Laith Qasem
+ST-014,Al Rawnaq Grocery Jabal Nasr,Grocery,Jabal Al Nasr,Amman,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,6,In Stock,0.86,20/08/2026,Laith Qasem
+ST-015,Abu Yaseen Grocery Wehdat,Grocery,Wehdat,Amman,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,8,In Stock,2.32,24/08/2026,Laith Qasem
+ST-015,Abu Yaseen Grocery Wehdat,Grocery,Wehdat,Amman,Central,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,0,Out of Stock,4.27,24/08/2026,Laith Qasem
+ST-015,Abu Yaseen Grocery Wehdat,Grocery,Wehdat,Amman,Central,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,36,In Stock,17.82,24/08/2026,Laith Qasem
+ST-015,Abu Yaseen Grocery Wehdat,Grocery,Wehdat,Amman,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,0,Out of Stock,4.86,24/08/2026,Laith Qasem
+ST-015,Abu Yaseen Grocery Wehdat,Grocery,Wehdat,Amman,Central,SKU-2024,Evaporated Milk,Dairy,410 g,32,In Stock,1.03,24/08/2026,Laith Qasem
+ST-015,Abu Yaseen Grocery Wehdat,Grocery,Wehdat,Amman,Central,SKU-3031,Black Tea Bags,Beverages,100 bags,29,In Stock,2.97,24/08/2026,Laith Qasem
+ST-015,Abu Yaseen Grocery Wehdat,Grocery,Wehdat,Amman,Central,SKU-3032,Green Tea Bags,Beverages,50 bags,2,Low Stock,2.27,24/08/2026,Laith Qasem
+ST-015,Abu Yaseen Grocery Wehdat,Grocery,Wehdat,Amman,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,2,Low Stock,0.92,24/08/2026,Laith Qasem
+ST-015,Abu Yaseen Grocery Wehdat,Grocery,Wehdat,Amman,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,6,In Stock,6.26,24/08/2026,Laith Qasem
+ST-015,Abu Yaseen Grocery Wehdat,Grocery,Wehdat,Amman,Central,SKU-5053,Bulgur Coarse,Grains,1 kg,35,In Stock,1.19,24/08/2026,Laith Qasem
+ST-015,Abu Yaseen Grocery Wehdat,Grocery,Wehdat,Amman,Central,SKU-5054,Freekeh,Grains,1 kg,4,Low Stock,3.19,24/08/2026,Laith Qasem
+ST-015,Abu Yaseen Grocery Wehdat,Grocery,Wehdat,Amman,Central,SKU-6060,All Purpose Flour,Baking,1 kg,0,Out of Stock,0.81,24/08/2026,Laith Qasem
+ST-015,Abu Yaseen Grocery Wehdat,Grocery,Wehdat,Amman,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,39,In Stock,0.86,24/08/2026,Laith Qasem
+ST-015,Abu Yaseen Grocery Wehdat,Grocery,Wehdat,Amman,Central,SKU-7071,Halawa Plain,Spreads,450 g,41,In Stock,3.89,24/08/2026,Laith Qasem
+ST-016,Al Nour Mini Market Tabarbour,Mini Market,Tabarbour,Amman,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,13,In Stock,2.26,19/08/2026,Rami Barakat
+ST-016,Al Nour Mini Market Tabarbour,Mini Market,Tabarbour,Amman,Central,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,21,In Stock,4.15,19/08/2026,Rami Barakat
+ST-016,Al Nour Mini Market Tabarbour,Mini Market,Tabarbour,Amman,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,2,Low Stock,2.57,19/08/2026,Rami Barakat
+ST-016,Al Nour Mini Market Tabarbour,Mini Market,Tabarbour,Amman,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,52,In Stock,7.25,19/08/2026,Rami Barakat
+ST-016,Al Nour Mini Market Tabarbour,Mini Market,Tabarbour,Amman,Central,SKU-2021,Full Cream Milk Powder,Dairy,900 g,0,Out of Stock,9.19,19/08/2026,Rami Barakat
+ST-016,Al Nour Mini Market Tabarbour,Mini Market,Tabarbour,Amman,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,2,Low Stock,4.73,19/08/2026,Rami Barakat
+ST-016,Al Nour Mini Market Tabarbour,Mini Market,Tabarbour,Amman,Central,SKU-3030,Black Tea Loose,Beverages,400 g,0,Out of Stock,3.46,19/08/2026,Rami Barakat
+ST-016,Al Nour Mini Market Tabarbour,Mini Market,Tabarbour,Amman,Central,SKU-3033,Instant Coffee,Beverages,200 g,30,In Stock,6.72,19/08/2026,Rami Barakat
+ST-016,Al Nour Mini Market Tabarbour,Mini Market,Tabarbour,Amman,Central,SKU-3034,Turkish Coffee Ground,Beverages,250 g,15,In Stock,2.99,19/08/2026,Rami Barakat
+ST-016,Al Nour Mini Market Tabarbour,Mini Market,Tabarbour,Amman,Central,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,0,Out of Stock,0.95,19/08/2026,Rami Barakat
+ST-016,Al Nour Mini Market Tabarbour,Mini Market,Tabarbour,Amman,Central,SKU-5050,White Rice Egyptian,Grains,1 kg,42,In Stock,1.31,19/08/2026,Rami Barakat
+ST-016,Al Nour Mini Market Tabarbour,Mini Market,Tabarbour,Amman,Central,SKU-5052,Basmati Rice,Grains,1 kg,26,In Stock,2.52,19/08/2026,Rami Barakat
+ST-016,Al Nour Mini Market Tabarbour,Mini Market,Tabarbour,Amman,Central,SKU-5053,Bulgur Coarse,Grains,1 kg,3,Low Stock,1.16,19/08/2026,Rami Barakat
+ST-016,Al Nour Mini Market Tabarbour,Mini Market,Tabarbour,Amman,Central,SKU-5055,Red Lentils,Grains,1 kg,6,In Stock,1.58,19/08/2026,Rami Barakat
+ST-016,Al Nour Mini Market Tabarbour,Mini Market,Tabarbour,Amman,Central,SKU-6060,All Purpose Flour,Baking,1 kg,56,In Stock,0.79,19/08/2026,Rami Barakat
+ST-016,Al Nour Mini Market Tabarbour,Mini Market,Tabarbour,Amman,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,1,Low Stock,0.73,19/08/2026,Rami Barakat
+ST-016,Al Nour Mini Market Tabarbour,Mini Market,Tabarbour,Amman,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,49,In Stock,0.84,19/08/2026,Rami Barakat
+ST-016,Al Nour Mini Market Tabarbour,Mini Market,Tabarbour,Amman,Central,SKU-7071,Halawa Plain,Spreads,450 g,31,In Stock,3.78,19/08/2026,Rami Barakat
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,42,In Stock,2.15,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,0,Out of Stock,3.95,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,14,In Stock,2.45,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,43,In Stock,6.9,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-2020,Full Cream Milk Powder,Dairy,400 g,1,Low Stock,4.25,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,28,In Stock,16.5,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,55,In Stock,4.5,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-2024,Evaporated Milk,Dairy,410 g,56,In Stock,0.95,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-3030,Black Tea Loose,Beverages,400 g,32,In Stock,3.3,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-3031,Black Tea Bags,Beverages,100 bags,51,In Stock,2.75,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-3032,Green Tea Bags,Beverages,50 bags,5,Low Stock,2.1,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-3033,Instant Coffee,Beverages,200 g,47,In Stock,6.4,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-3034,Turkish Coffee Ground,Beverages,250 g,9,In Stock,2.85,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-4040,Tomato Paste,Canned Goods,800 g,0,Out of Stock,1.45,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,10,In Stock,0.85,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-4042,Chickpeas Canned,Canned Goods,400 g,5,Low Stock,0.65,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-4043,Fava Beans Canned,Canned Goods,400 g,5,Low Stock,0.6,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,20,In Stock,0.9,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-5050,White Rice Egyptian,Grains,1 kg,1,Low Stock,1.25,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-5052,Basmati Rice,Grains,1 kg,2,Low Stock,2.4,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-5053,Bulgur Coarse,Grains,1 kg,0,Out of Stock,1.1,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-5054,Freekeh,Grains,1 kg,0,Out of Stock,2.95,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-5055,Red Lentils,Grains,1 kg,25,In Stock,1.5,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-6060,All Purpose Flour,Baking,1 kg,12,In Stock,0.75,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-6061,White Sugar,Baking,1 kg,15,In Stock,0.85,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,46,In Stock,0.7,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,13,In Stock,0.8,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-7070,Tahini,Spreads,400 g,16,In Stock,3.2,16/08/2026,Omar Haddad
+ST-017,Istiklal Market Sahab,Supermarket,Sahab,Amman,Central,SKU-7071,Halawa Plain,Spreads,450 g,0,Out of Stock,3.6,16/08/2026,Omar Haddad
+ST-018,Al Yarmouk Market Naour,Mini Market,Naour,Amman,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,29,In Stock,2.26,24/08/2026,Laith Qasem
+ST-018,Al Yarmouk Market Naour,Mini Market,Naour,Amman,Central,SKU-2020,Full Cream Milk Powder,Dairy,400 g,38,In Stock,4.46,24/08/2026,Laith Qasem
+ST-018,Al Yarmouk Market Naour,Mini Market,Naour,Amman,Central,SKU-2021,Full Cream Milk Powder,Dairy,900 g,36,In Stock,9.19,24/08/2026,Laith Qasem
+ST-018,Al Yarmouk Market Naour,Mini Market,Naour,Amman,Central,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,2,Low Stock,17.32,24/08/2026,Laith Qasem
+ST-018,Al Yarmouk Market Naour,Mini Market,Naour,Amman,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,4,Low Stock,4.73,24/08/2026,Laith Qasem
+ST-018,Al Yarmouk Market Naour,Mini Market,Naour,Amman,Central,SKU-3030,Black Tea Loose,Beverages,400 g,0,Out of Stock,3.46,24/08/2026,Laith Qasem
+ST-018,Al Yarmouk Market Naour,Mini Market,Naour,Amman,Central,SKU-3032,Green Tea Bags,Beverages,50 bags,30,In Stock,2.21,24/08/2026,Laith Qasem
+ST-018,Al Yarmouk Market Naour,Mini Market,Naour,Amman,Central,SKU-3033,Instant Coffee,Beverages,200 g,46,In Stock,6.72,24/08/2026,Laith Qasem
+ST-018,Al Yarmouk Market Naour,Mini Market,Naour,Amman,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,0,Out of Stock,0.89,24/08/2026,Laith Qasem
+ST-018,Al Yarmouk Market Naour,Mini Market,Naour,Amman,Central,SKU-4042,Chickpeas Canned,Canned Goods,400 g,35,In Stock,0.68,24/08/2026,Laith Qasem
+ST-018,Al Yarmouk Market Naour,Mini Market,Naour,Amman,Central,SKU-4043,Fava Beans Canned,Canned Goods,400 g,60,In Stock,0.63,24/08/2026,Laith Qasem
+ST-018,Al Yarmouk Market Naour,Mini Market,Naour,Amman,Central,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,19,In Stock,0.95,24/08/2026,Laith Qasem
+ST-018,Al Yarmouk Market Naour,Mini Market,Naour,Amman,Central,SKU-5050,White Rice Egyptian,Grains,1 kg,12,In Stock,1.31,24/08/2026,Laith Qasem
+ST-018,Al Yarmouk Market Naour,Mini Market,Naour,Amman,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,45,In Stock,6.09,24/08/2026,Laith Qasem
+ST-018,Al Yarmouk Market Naour,Mini Market,Naour,Amman,Central,SKU-5052,Basmati Rice,Grains,1 kg,35,In Stock,2.52,24/08/2026,Laith Qasem
+ST-018,Al Yarmouk Market Naour,Mini Market,Naour,Amman,Central,SKU-5055,Red Lentils,Grains,1 kg,38,In Stock,1.58,24/08/2026,Laith Qasem
+ST-018,Al Yarmouk Market Naour,Mini Market,Naour,Amman,Central,SKU-6061,White Sugar,Baking,1 kg,56,In Stock,0.89,24/08/2026,Laith Qasem
+ST-018,Al Yarmouk Market Naour,Mini Market,Naour,Amman,Central,SKU-7070,Tahini,Spreads,400 g,4,Low Stock,3.36,24/08/2026,Laith Qasem
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,2,Low Stock,2.09,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,0,Out of Stock,3.83,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,57,In Stock,2.38,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,14,In Stock,6.69,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-2020,Full Cream Milk Powder,Dairy,400 g,25,In Stock,4.12,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-2021,Full Cream Milk Powder,Dairy,900 g,5,Low Stock,8.49,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,7,In Stock,16,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,21,In Stock,4.37,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-2024,Evaporated Milk,Dairy,410 g,4,Low Stock,0.92,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-3030,Black Tea Loose,Beverages,400 g,35,In Stock,3.2,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-3031,Black Tea Bags,Beverages,100 bags,55,In Stock,2.67,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-3032,Green Tea Bags,Beverages,50 bags,2,Low Stock,2.04,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-3033,Instant Coffee,Beverages,200 g,8,In Stock,6.21,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-3034,Turkish Coffee Ground,Beverages,250 g,14,In Stock,2.76,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-4040,Tomato Paste,Canned Goods,800 g,2,Low Stock,1.41,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,27,In Stock,0.82,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-4042,Chickpeas Canned,Canned Goods,400 g,2,Low Stock,0.63,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-4043,Fava Beans Canned,Canned Goods,400 g,5,Low Stock,0.58,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,5,Low Stock,1.31,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,54,In Stock,0.87,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-5050,White Rice Egyptian,Grains,1 kg,0,Out of Stock,1.21,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,44,In Stock,5.63,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-5052,Basmati Rice,Grains,1 kg,26,In Stock,2.33,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-5053,Bulgur Coarse,Grains,1 kg,0,Out of Stock,1.07,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-5054,Freekeh,Grains,1 kg,4,Low Stock,2.86,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-5055,Red Lentils,Grains,1 kg,7,In Stock,1.46,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-6060,All Purpose Flour,Baking,1 kg,1,Low Stock,0.73,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-6061,White Sugar,Baking,1 kg,4,Low Stock,0.82,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,0,Out of Stock,0.68,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,32,In Stock,0.78,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-7070,Tahini,Spreads,400 g,58,In Stock,3.1,19/08/2026,Omar Haddad
+ST-019,City Center Zarqa,Hypermarket,Al Zarqa Al Jadida,Zarqa,Central,SKU-7071,Halawa Plain,Spreads,450 g,0,Out of Stock,3.49,19/08/2026,Omar Haddad
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,43,In Stock,2.15,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,21,In Stock,2.45,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,51,In Stock,6.9,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-2020,Full Cream Milk Powder,Dairy,400 g,30,In Stock,4.25,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-2021,Full Cream Milk Powder,Dairy,900 g,0,Out of Stock,8.75,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,33,In Stock,16.5,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,2,Low Stock,4.5,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-2024,Evaporated Milk,Dairy,410 g,45,In Stock,0.95,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-3031,Black Tea Bags,Beverages,100 bags,12,In Stock,2.75,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-3032,Green Tea Bags,Beverages,50 bags,34,In Stock,2.1,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-3033,Instant Coffee,Beverages,200 g,9,In Stock,6.4,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-4040,Tomato Paste,Canned Goods,800 g,1,Low Stock,1.45,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,1,Low Stock,0.85,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-4042,Chickpeas Canned,Canned Goods,400 g,3,Low Stock,0.65,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-4043,Fava Beans Canned,Canned Goods,400 g,20,In Stock,0.6,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,43,In Stock,1.35,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-5050,White Rice Egyptian,Grains,1 kg,0,Out of Stock,1.25,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,19,In Stock,5.8,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-5052,Basmati Rice,Grains,1 kg,44,In Stock,2.4,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-5054,Freekeh,Grains,1 kg,0,Out of Stock,2.95,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-6060,All Purpose Flour,Baking,1 kg,44,In Stock,0.75,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-6061,White Sugar,Baking,1 kg,42,In Stock,0.85,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,0,Out of Stock,0.7,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-7070,Tahini,Spreads,400 g,27,In Stock,3.2,24/08/2026,Rami Barakat
+ST-020,Nour Market Russeifa,Supermarket,Russeifa,Zarqa,Central,SKU-7071,Halawa Plain,Spreads,450 g,3,Low Stock,3.6,24/08/2026,Rami Barakat
+ST-021,Al Amana Grocery Hashemiya,Grocery,Al Hashemiya,Zarqa,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,1,Low Stock,2.32,19/08/2026,Omar Haddad
+ST-021,Al Amana Grocery Hashemiya,Grocery,Al Hashemiya,Zarqa,Central,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,30,In Stock,4.27,19/08/2026,Omar Haddad
+ST-021,Al Amana Grocery Hashemiya,Grocery,Al Hashemiya,Zarqa,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,35,In Stock,7.45,19/08/2026,Omar Haddad
+ST-021,Al Amana Grocery Hashemiya,Grocery,Al Hashemiya,Zarqa,Central,SKU-2020,Full Cream Milk Powder,Dairy,400 g,5,Low Stock,4.59,19/08/2026,Omar Haddad
+ST-021,Al Amana Grocery Hashemiya,Grocery,Al Hashemiya,Zarqa,Central,SKU-2021,Full Cream Milk Powder,Dairy,900 g,58,In Stock,9.45,19/08/2026,Omar Haddad
+ST-021,Al Amana Grocery Hashemiya,Grocery,Al Hashemiya,Zarqa,Central,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,4,Low Stock,17.82,19/08/2026,Omar Haddad
+ST-021,Al Amana Grocery Hashemiya,Grocery,Al Hashemiya,Zarqa,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,0,Out of Stock,4.86,19/08/2026,Omar Haddad
+ST-021,Al Amana Grocery Hashemiya,Grocery,Al Hashemiya,Zarqa,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,31,In Stock,0.92,19/08/2026,Omar Haddad
+ST-021,Al Amana Grocery Hashemiya,Grocery,Al Hashemiya,Zarqa,Central,SKU-4043,Fava Beans Canned,Canned Goods,400 g,12,In Stock,0.65,19/08/2026,Omar Haddad
+ST-021,Al Amana Grocery Hashemiya,Grocery,Al Hashemiya,Zarqa,Central,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,2,Low Stock,1.46,19/08/2026,Omar Haddad
+ST-021,Al Amana Grocery Hashemiya,Grocery,Al Hashemiya,Zarqa,Central,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,45,In Stock,0.97,19/08/2026,Omar Haddad
+ST-021,Al Amana Grocery Hashemiya,Grocery,Al Hashemiya,Zarqa,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,23,In Stock,6.26,19/08/2026,Omar Haddad
+ST-021,Al Amana Grocery Hashemiya,Grocery,Al Hashemiya,Zarqa,Central,SKU-5054,Freekeh,Grains,1 kg,16,In Stock,3.19,19/08/2026,Omar Haddad
+ST-021,Al Amana Grocery Hashemiya,Grocery,Al Hashemiya,Zarqa,Central,SKU-6060,All Purpose Flour,Baking,1 kg,29,In Stock,0.81,19/08/2026,Omar Haddad
+ST-021,Al Amana Grocery Hashemiya,Grocery,Al Hashemiya,Zarqa,Central,SKU-6061,White Sugar,Baking,1 kg,47,In Stock,0.92,19/08/2026,Omar Haddad
+ST-021,Al Amana Grocery Hashemiya,Grocery,Al Hashemiya,Zarqa,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,8,In Stock,0.76,19/08/2026,Omar Haddad
+ST-021,Al Amana Grocery Hashemiya,Grocery,Al Hashemiya,Zarqa,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,0,Out of Stock,0.86,19/08/2026,Omar Haddad
+ST-021,Al Amana Grocery Hashemiya,Grocery,Al Hashemiya,Zarqa,Central,SKU-7070,Tahini,Spreads,400 g,4,Low Stock,3.46,19/08/2026,Omar Haddad
+ST-022,Zarqa Central Market,Supermarket,Downtown Zarqa,Zarqa,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,2,Low Stock,2.15,14/08/2026,Omar Haddad
+ST-022,Zarqa Central Market,Supermarket,Downtown Zarqa,Zarqa,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,2,Low Stock,2.45,14/08/2026,Omar Haddad
+ST-022,Zarqa Central Market,Supermarket,Downtown Zarqa,Zarqa,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,4,Low Stock,6.9,14/08/2026,Omar Haddad
+ST-022,Zarqa Central Market,Supermarket,Downtown Zarqa,Zarqa,Central,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,38,In Stock,16.5,14/08/2026,Omar Haddad
+ST-022,Zarqa Central Market,Supermarket,Downtown Zarqa,Zarqa,Central,SKU-2024,Evaporated Milk,Dairy,410 g,35,In Stock,0.95,14/08/2026,Omar Haddad
+ST-022,Zarqa Central Market,Supermarket,Downtown Zarqa,Zarqa,Central,SKU-3030,Black Tea Loose,Beverages,400 g,0,Out of Stock,3.3,14/08/2026,Omar Haddad
+ST-022,Zarqa Central Market,Supermarket,Downtown Zarqa,Zarqa,Central,SKU-3031,Black Tea Bags,Beverages,100 bags,2,Low Stock,2.75,14/08/2026,Omar Haddad
+ST-022,Zarqa Central Market,Supermarket,Downtown Zarqa,Zarqa,Central,SKU-3032,Green Tea Bags,Beverages,50 bags,39,In Stock,2.1,14/08/2026,Omar Haddad
+ST-022,Zarqa Central Market,Supermarket,Downtown Zarqa,Zarqa,Central,SKU-3033,Instant Coffee,Beverages,200 g,60,In Stock,6.4,14/08/2026,Omar Haddad
+ST-022,Zarqa Central Market,Supermarket,Downtown Zarqa,Zarqa,Central,SKU-4040,Tomato Paste,Canned Goods,800 g,58,In Stock,1.45,14/08/2026,Omar Haddad
+ST-022,Zarqa Central Market,Supermarket,Downtown Zarqa,Zarqa,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,45,In Stock,0.85,14/08/2026,Omar Haddad
+ST-022,Zarqa Central Market,Supermarket,Downtown Zarqa,Zarqa,Central,SKU-4043,Fava Beans Canned,Canned Goods,400 g,13,In Stock,0.6,14/08/2026,Omar Haddad
+ST-022,Zarqa Central Market,Supermarket,Downtown Zarqa,Zarqa,Central,SKU-5050,White Rice Egyptian,Grains,1 kg,45,In Stock,1.25,14/08/2026,Omar Haddad
+ST-022,Zarqa Central Market,Supermarket,Downtown Zarqa,Zarqa,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,5,Low Stock,5.8,14/08/2026,Omar Haddad
+ST-022,Zarqa Central Market,Supermarket,Downtown Zarqa,Zarqa,Central,SKU-5053,Bulgur Coarse,Grains,1 kg,4,Low Stock,1.1,14/08/2026,Omar Haddad
+ST-022,Zarqa Central Market,Supermarket,Downtown Zarqa,Zarqa,Central,SKU-6060,All Purpose Flour,Baking,1 kg,28,In Stock,0.75,14/08/2026,Omar Haddad
+ST-022,Zarqa Central Market,Supermarket,Downtown Zarqa,Zarqa,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,51,In Stock,0.7,14/08/2026,Omar Haddad
+ST-022,Zarqa Central Market,Supermarket,Downtown Zarqa,Zarqa,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,16,In Stock,0.8,14/08/2026,Omar Haddad
+ST-022,Zarqa Central Market,Supermarket,Downtown Zarqa,Zarqa,Central,SKU-7070,Tahini,Spreads,400 g,1,Low Stock,3.2,14/08/2026,Omar Haddad
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,44,In Stock,3.95,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,33,In Stock,2.45,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,60,In Stock,6.9,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-2020,Full Cream Milk Powder,Dairy,400 g,42,In Stock,4.25,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-2021,Full Cream Milk Powder,Dairy,900 g,2,Low Stock,8.75,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-2024,Evaporated Milk,Dairy,410 g,27,In Stock,0.95,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-3030,Black Tea Loose,Beverages,400 g,4,Low Stock,3.3,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-3032,Green Tea Bags,Beverages,50 bags,31,In Stock,2.1,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-3033,Instant Coffee,Beverages,200 g,14,In Stock,6.4,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-3034,Turkish Coffee Ground,Beverages,250 g,14,In Stock,2.85,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-4040,Tomato Paste,Canned Goods,800 g,0,Out of Stock,1.45,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-4041,Tomato Paste,Canned Goods,400 g,55,In Stock,0.85,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,27,In Stock,1.35,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,58,In Stock,0.9,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-5050,White Rice Egyptian,Grains,1 kg,21,In Stock,1.25,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-5051,White Rice Egyptian,Grains,5 kg,36,In Stock,5.8,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-5052,Basmati Rice,Grains,1 kg,56,In Stock,2.4,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-5054,Freekeh,Grains,1 kg,50,In Stock,2.95,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-5055,Red Lentils,Grains,1 kg,46,In Stock,1.5,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-6060,All Purpose Flour,Baking,1 kg,19,In Stock,0.75,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-6062,Vermicelli Pasta,Pasta,400 g,19,In Stock,0.7,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-6063,Spaghetti Pasta,Pasta,500 g,27,In Stock,0.8,25/08/2026,Zaid Othman
+ST-023,Al Waha Supermarket Irbid,Supermarket,Al Hosn,Irbid,North,SKU-7070,Tahini,Spreads,400 g,0,Out of Stock,3.2,25/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,0,Out of Stock,2.09,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,18,In Stock,3.83,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,0,Out of Stock,2.38,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,34,In Stock,6.69,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-2020,Full Cream Milk Powder,Dairy,400 g,5,Low Stock,4.12,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,0,Out of Stock,16,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-2023,Skimmed Milk Powder,Dairy,400 g,4,Low Stock,4.37,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-2024,Evaporated Milk,Dairy,410 g,7,In Stock,0.92,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-3030,Black Tea Loose,Beverages,400 g,60,In Stock,3.2,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-3031,Black Tea Bags,Beverages,100 bags,4,Low Stock,2.67,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-3032,Green Tea Bags,Beverages,50 bags,0,Out of Stock,2.04,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-3033,Instant Coffee,Beverages,200 g,39,In Stock,6.21,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-3034,Turkish Coffee Ground,Beverages,250 g,50,In Stock,2.76,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-4040,Tomato Paste,Canned Goods,800 g,5,Low Stock,1.41,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-4041,Tomato Paste,Canned Goods,400 g,54,In Stock,0.82,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-4042,Chickpeas Canned,Canned Goods,400 g,0,Out of Stock,0.63,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-4043,Fava Beans Canned,Canned Goods,400 g,0,Out of Stock,0.58,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,9,In Stock,1.31,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,0,Out of Stock,0.87,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-5050,White Rice Egyptian,Grains,1 kg,4,Low Stock,1.21,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-5051,White Rice Egyptian,Grains,5 kg,33,In Stock,5.63,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-5052,Basmati Rice,Grains,1 kg,9,In Stock,2.33,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-5053,Bulgur Coarse,Grains,1 kg,5,Low Stock,1.07,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-5054,Freekeh,Grains,1 kg,11,In Stock,2.86,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-5055,Red Lentils,Grains,1 kg,5,Low Stock,1.46,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-6060,All Purpose Flour,Baking,1 kg,4,Low Stock,0.73,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-6061,White Sugar,Baking,1 kg,8,In Stock,0.82,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-6062,Vermicelli Pasta,Pasta,400 g,21,In Stock,0.68,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-6063,Spaghetti Pasta,Pasta,500 g,37,In Stock,0.78,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-7070,Tahini,Spreads,400 g,56,In Stock,3.1,14/08/2026,Zaid Othman
+ST-024,Irbid Mall Market,Hypermarket,Al Hay Al Janoubi,Irbid,North,SKU-7071,Halawa Plain,Spreads,450 g,0,Out of Stock,3.49,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,46,In Stock,2.15,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,39,In Stock,3.95,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,59,In Stock,2.45,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,3,Low Stock,6.9,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-2020,Full Cream Milk Powder,Dairy,400 g,4,Low Stock,4.25,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-2021,Full Cream Milk Powder,Dairy,900 g,1,Low Stock,8.75,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-2024,Evaporated Milk,Dairy,410 g,30,In Stock,0.95,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-3030,Black Tea Loose,Beverages,400 g,51,In Stock,3.3,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-3031,Black Tea Bags,Beverages,100 bags,59,In Stock,2.75,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-3032,Green Tea Bags,Beverages,50 bags,15,In Stock,2.1,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-3033,Instant Coffee,Beverages,200 g,10,In Stock,6.4,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-3034,Turkish Coffee Ground,Beverages,250 g,5,Low Stock,2.85,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-4040,Tomato Paste,Canned Goods,800 g,54,In Stock,1.45,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-4041,Tomato Paste,Canned Goods,400 g,0,Out of Stock,0.85,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-4043,Fava Beans Canned,Canned Goods,400 g,54,In Stock,0.6,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,38,In Stock,1.35,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,4,Low Stock,0.9,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-5050,White Rice Egyptian,Grains,1 kg,17,In Stock,1.25,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-5051,White Rice Egyptian,Grains,5 kg,20,In Stock,5.8,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-5052,Basmati Rice,Grains,1 kg,5,Low Stock,2.4,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-5053,Bulgur Coarse,Grains,1 kg,29,In Stock,1.1,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-5054,Freekeh,Grains,1 kg,38,In Stock,2.95,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-5055,Red Lentils,Grains,1 kg,4,Low Stock,1.5,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-6060,All Purpose Flour,Baking,1 kg,48,In Stock,0.75,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-6061,White Sugar,Baking,1 kg,7,In Stock,0.85,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-6062,Vermicelli Pasta,Pasta,400 g,59,In Stock,0.7,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-6063,Spaghetti Pasta,Pasta,500 g,14,In Stock,0.8,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-7070,Tahini,Spreads,400 g,20,In Stock,3.2,14/08/2026,Zaid Othman
+ST-025,Al Bayader Market Irbid,Supermarket,Al Bareha,Irbid,North,SKU-7071,Halawa Plain,Spreads,450 g,36,In Stock,3.6,14/08/2026,Zaid Othman
+ST-026,Yarmouk Grocery Irbid,Grocery,University Street,Irbid,North,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,0,Out of Stock,4.27,19/08/2026,Zaid Othman
+ST-026,Yarmouk Grocery Irbid,Grocery,University Street,Irbid,North,SKU-2020,Full Cream Milk Powder,Dairy,400 g,2,Low Stock,4.59,19/08/2026,Zaid Othman
+ST-026,Yarmouk Grocery Irbid,Grocery,University Street,Irbid,North,SKU-3031,Black Tea Bags,Beverages,100 bags,10,In Stock,2.97,19/08/2026,Zaid Othman
+ST-026,Yarmouk Grocery Irbid,Grocery,University Street,Irbid,North,SKU-3033,Instant Coffee,Beverages,200 g,51,In Stock,6.91,19/08/2026,Zaid Othman
+ST-026,Yarmouk Grocery Irbid,Grocery,University Street,Irbid,North,SKU-4040,Tomato Paste,Canned Goods,800 g,1,Low Stock,1.57,19/08/2026,Zaid Othman
+ST-026,Yarmouk Grocery Irbid,Grocery,University Street,Irbid,North,SKU-4041,Tomato Paste,Canned Goods,400 g,10,In Stock,0.92,19/08/2026,Zaid Othman
+ST-026,Yarmouk Grocery Irbid,Grocery,University Street,Irbid,North,SKU-4042,Chickpeas Canned,Canned Goods,400 g,19,In Stock,0.7,19/08/2026,Zaid Othman
+ST-026,Yarmouk Grocery Irbid,Grocery,University Street,Irbid,North,SKU-5051,White Rice Egyptian,Grains,5 kg,5,Low Stock,6.26,19/08/2026,Zaid Othman
+ST-026,Yarmouk Grocery Irbid,Grocery,University Street,Irbid,North,SKU-5052,Basmati Rice,Grains,1 kg,53,In Stock,2.59,19/08/2026,Zaid Othman
+ST-026,Yarmouk Grocery Irbid,Grocery,University Street,Irbid,North,SKU-5054,Freekeh,Grains,1 kg,36,In Stock,3.19,19/08/2026,Zaid Othman
+ST-026,Yarmouk Grocery Irbid,Grocery,University Street,Irbid,North,SKU-5055,Red Lentils,Grains,1 kg,14,In Stock,1.62,19/08/2026,Zaid Othman
+ST-026,Yarmouk Grocery Irbid,Grocery,University Street,Irbid,North,SKU-6060,All Purpose Flour,Baking,1 kg,24,In Stock,0.81,19/08/2026,Zaid Othman
+ST-026,Yarmouk Grocery Irbid,Grocery,University Street,Irbid,North,SKU-6061,White Sugar,Baking,1 kg,29,In Stock,0.92,19/08/2026,Zaid Othman
+ST-027,Al Sanabel Market Ramtha,Mini Market,Al Ramtha,Irbid,North,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,34,In Stock,4.15,12/08/2026,Hamza Salameh
+ST-027,Al Sanabel Market Ramtha,Mini Market,Al Ramtha,Irbid,North,SKU-2020,Full Cream Milk Powder,Dairy,400 g,4,Low Stock,4.46,12/08/2026,Hamza Salameh
+ST-027,Al Sanabel Market Ramtha,Mini Market,Al Ramtha,Irbid,North,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,30,In Stock,17.32,12/08/2026,Hamza Salameh
+ST-027,Al Sanabel Market Ramtha,Mini Market,Al Ramtha,Irbid,North,SKU-2023,Skimmed Milk Powder,Dairy,400 g,51,In Stock,4.73,12/08/2026,Hamza Salameh
+ST-027,Al Sanabel Market Ramtha,Mini Market,Al Ramtha,Irbid,North,SKU-3031,Black Tea Bags,Beverages,100 bags,29,In Stock,2.89,12/08/2026,Hamza Salameh
+ST-027,Al Sanabel Market Ramtha,Mini Market,Al Ramtha,Irbid,North,SKU-3032,Green Tea Bags,Beverages,50 bags,0,Out of Stock,2.21,12/08/2026,Hamza Salameh
+ST-027,Al Sanabel Market Ramtha,Mini Market,Al Ramtha,Irbid,North,SKU-3033,Instant Coffee,Beverages,200 g,42,In Stock,6.72,12/08/2026,Hamza Salameh
+ST-027,Al Sanabel Market Ramtha,Mini Market,Al Ramtha,Irbid,North,SKU-4040,Tomato Paste,Canned Goods,800 g,32,In Stock,1.52,12/08/2026,Hamza Salameh
+ST-027,Al Sanabel Market Ramtha,Mini Market,Al Ramtha,Irbid,North,SKU-4041,Tomato Paste,Canned Goods,400 g,20,In Stock,0.89,12/08/2026,Hamza Salameh
+ST-027,Al Sanabel Market Ramtha,Mini Market,Al Ramtha,Irbid,North,SKU-5050,White Rice Egyptian,Grains,1 kg,21,In Stock,1.31,12/08/2026,Hamza Salameh
+ST-027,Al Sanabel Market Ramtha,Mini Market,Al Ramtha,Irbid,North,SKU-5052,Basmati Rice,Grains,1 kg,9,In Stock,2.52,12/08/2026,Hamza Salameh
+ST-027,Al Sanabel Market Ramtha,Mini Market,Al Ramtha,Irbid,North,SKU-5053,Bulgur Coarse,Grains,1 kg,44,In Stock,1.16,12/08/2026,Hamza Salameh
+ST-027,Al Sanabel Market Ramtha,Mini Market,Al Ramtha,Irbid,North,SKU-5054,Freekeh,Grains,1 kg,31,In Stock,3.1,12/08/2026,Hamza Salameh
+ST-027,Al Sanabel Market Ramtha,Mini Market,Al Ramtha,Irbid,North,SKU-5055,Red Lentils,Grains,1 kg,15,In Stock,1.58,12/08/2026,Hamza Salameh
+ST-027,Al Sanabel Market Ramtha,Mini Market,Al Ramtha,Irbid,North,SKU-6060,All Purpose Flour,Baking,1 kg,0,Out of Stock,0.79,12/08/2026,Hamza Salameh
+ST-027,Al Sanabel Market Ramtha,Mini Market,Al Ramtha,Irbid,North,SKU-6061,White Sugar,Baking,1 kg,8,In Stock,0.89,12/08/2026,Hamza Salameh
+ST-027,Al Sanabel Market Ramtha,Mini Market,Al Ramtha,Irbid,North,SKU-6062,Vermicelli Pasta,Pasta,400 g,41,In Stock,0.73,12/08/2026,Hamza Salameh
+ST-027,Al Sanabel Market Ramtha,Mini Market,Al Ramtha,Irbid,North,SKU-7071,Halawa Plain,Spreads,450 g,60,In Stock,3.78,12/08/2026,Hamza Salameh
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,32,In Stock,3.95,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,0,Out of Stock,6.9,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-2021,Full Cream Milk Powder,Dairy,900 g,35,In Stock,8.75,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,3,Low Stock,16.5,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-2024,Evaporated Milk,Dairy,410 g,20,In Stock,0.95,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-3030,Black Tea Loose,Beverages,400 g,8,In Stock,3.3,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-3031,Black Tea Bags,Beverages,100 bags,7,In Stock,2.75,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-3032,Green Tea Bags,Beverages,50 bags,51,In Stock,2.1,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-3033,Instant Coffee,Beverages,200 g,3,Low Stock,6.4,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-3034,Turkish Coffee Ground,Beverages,250 g,5,Low Stock,2.85,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-4040,Tomato Paste,Canned Goods,800 g,15,In Stock,1.45,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-4042,Chickpeas Canned,Canned Goods,400 g,54,In Stock,0.65,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,0,Out of Stock,1.35,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,42,In Stock,0.9,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-5050,White Rice Egyptian,Grains,1 kg,0,Out of Stock,1.25,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-5051,White Rice Egyptian,Grains,5 kg,5,Low Stock,5.8,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-5053,Bulgur Coarse,Grains,1 kg,0,Out of Stock,1.1,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-5055,Red Lentils,Grains,1 kg,35,In Stock,1.5,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-6060,All Purpose Flour,Baking,1 kg,57,In Stock,0.75,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-6061,White Sugar,Baking,1 kg,44,In Stock,0.85,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-6062,Vermicelli Pasta,Pasta,400 g,0,Out of Stock,0.7,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-6063,Spaghetti Pasta,Pasta,500 g,60,In Stock,0.8,15/08/2026,Zaid Othman
+ST-028,Ajloun Central Market,Supermarket,Ajloun Center,Ajloun,North,SKU-7070,Tahini,Spreads,400 g,0,Out of Stock,3.2,15/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,5,Low Stock,2.15,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,46,In Stock,3.95,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,29,In Stock,2.45,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,41,In Stock,6.9,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-2020,Full Cream Milk Powder,Dairy,400 g,4,Low Stock,4.25,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-2021,Full Cream Milk Powder,Dairy,900 g,21,In Stock,8.75,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,58,In Stock,16.5,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-2023,Skimmed Milk Powder,Dairy,400 g,55,In Stock,4.5,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-2024,Evaporated Milk,Dairy,410 g,1,Low Stock,0.95,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-3031,Black Tea Bags,Beverages,100 bags,0,Out of Stock,2.75,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-3032,Green Tea Bags,Beverages,50 bags,59,In Stock,2.1,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-3033,Instant Coffee,Beverages,200 g,4,Low Stock,6.4,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-3034,Turkish Coffee Ground,Beverages,250 g,37,In Stock,2.85,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-4040,Tomato Paste,Canned Goods,800 g,47,In Stock,1.45,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-4041,Tomato Paste,Canned Goods,400 g,58,In Stock,0.85,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-4043,Fava Beans Canned,Canned Goods,400 g,0,Out of Stock,0.6,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,1,Low Stock,0.9,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-5050,White Rice Egyptian,Grains,1 kg,21,In Stock,1.25,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-5051,White Rice Egyptian,Grains,5 kg,0,Out of Stock,5.8,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-5052,Basmati Rice,Grains,1 kg,59,In Stock,2.4,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-5054,Freekeh,Grains,1 kg,0,Out of Stock,2.95,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-5055,Red Lentils,Grains,1 kg,0,Out of Stock,1.5,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-6060,All Purpose Flour,Baking,1 kg,27,In Stock,0.75,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-6061,White Sugar,Baking,1 kg,54,In Stock,0.85,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-6062,Vermicelli Pasta,Pasta,400 g,1,Low Stock,0.7,14/08/2026,Zaid Othman
+ST-029,Jerash Family Market,Supermarket,Jerash Center,Jerash,North,SKU-7071,Halawa Plain,Spreads,450 g,25,In Stock,3.6,14/08/2026,Zaid Othman
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,15,In Stock,2.15,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,34,In Stock,3.95,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,11,In Stock,2.45,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,4,Low Stock,6.9,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-2020,Full Cream Milk Powder,Dairy,400 g,27,In Stock,4.25,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-2021,Full Cream Milk Powder,Dairy,900 g,0,Out of Stock,8.75,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,14,In Stock,16.5,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-2023,Skimmed Milk Powder,Dairy,400 g,3,Low Stock,4.5,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-2024,Evaporated Milk,Dairy,410 g,3,Low Stock,0.95,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-3031,Black Tea Bags,Beverages,100 bags,16,In Stock,2.75,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-3032,Green Tea Bags,Beverages,50 bags,48,In Stock,2.1,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-3033,Instant Coffee,Beverages,200 g,33,In Stock,6.4,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-3034,Turkish Coffee Ground,Beverages,250 g,38,In Stock,2.85,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-4040,Tomato Paste,Canned Goods,800 g,5,Low Stock,1.45,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-4041,Tomato Paste,Canned Goods,400 g,37,In Stock,0.85,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-4042,Chickpeas Canned,Canned Goods,400 g,1,Low Stock,0.65,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-4043,Fava Beans Canned,Canned Goods,400 g,0,Out of Stock,0.6,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,3,Low Stock,0.9,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-5050,White Rice Egyptian,Grains,1 kg,36,In Stock,1.25,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-5051,White Rice Egyptian,Grains,5 kg,45,In Stock,5.8,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-5052,Basmati Rice,Grains,1 kg,0,Out of Stock,2.4,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-5053,Bulgur Coarse,Grains,1 kg,17,In Stock,1.1,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-5054,Freekeh,Grains,1 kg,0,Out of Stock,2.95,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-5055,Red Lentils,Grains,1 kg,1,Low Stock,1.5,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-6060,All Purpose Flour,Baking,1 kg,19,In Stock,0.75,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-6063,Spaghetti Pasta,Pasta,500 g,48,In Stock,0.8,20/08/2026,Hamza Salameh
+ST-030,Al Mafraq Main Market,Supermarket,Mafraq Center,Mafraq,North,SKU-7071,Halawa Plain,Spreads,450 g,1,Low Stock,3.6,20/08/2026,Hamza Salameh
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,18,In Stock,2.15,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,60,In Stock,3.95,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,3,Low Stock,2.45,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,13,In Stock,6.9,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-2020,Full Cream Milk Powder,Dairy,400 g,43,In Stock,4.25,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-2021,Full Cream Milk Powder,Dairy,900 g,58,In Stock,8.75,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,0,Out of Stock,16.5,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,5,Low Stock,4.5,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-3030,Black Tea Loose,Beverages,400 g,15,In Stock,3.3,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-3031,Black Tea Bags,Beverages,100 bags,24,In Stock,2.75,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-3034,Turkish Coffee Ground,Beverages,250 g,38,In Stock,2.85,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-4040,Tomato Paste,Canned Goods,800 g,27,In Stock,1.45,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,0,Out of Stock,0.85,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-4042,Chickpeas Canned,Canned Goods,400 g,1,Low Stock,0.65,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,53,In Stock,1.35,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-5050,White Rice Egyptian,Grains,1 kg,57,In Stock,1.25,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-5052,Basmati Rice,Grains,1 kg,33,In Stock,2.4,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-5053,Bulgur Coarse,Grains,1 kg,52,In Stock,1.1,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-5054,Freekeh,Grains,1 kg,37,In Stock,2.95,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-5055,Red Lentils,Grains,1 kg,0,Out of Stock,1.5,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-6060,All Purpose Flour,Baking,1 kg,55,In Stock,0.75,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,1,Low Stock,0.8,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-7070,Tahini,Spreads,400 g,44,In Stock,3.2,14/08/2026,Laith Qasem
+ST-031,Al Salt Grand Market,Supermarket,Al Salt Center,Balqa,Central,SKU-7071,Halawa Plain,Spreads,450 g,60,In Stock,3.6,14/08/2026,Laith Qasem
+ST-032,Deir Alla Mini Market,Mini Market,Deir Alla,Balqa,Central,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,0,Out of Stock,4.15,15/08/2026,Laith Qasem
+ST-032,Deir Alla Mini Market,Mini Market,Deir Alla,Balqa,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,55,In Stock,2.57,15/08/2026,Laith Qasem
+ST-032,Deir Alla Mini Market,Mini Market,Deir Alla,Balqa,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,59,In Stock,7.25,15/08/2026,Laith Qasem
+ST-032,Deir Alla Mini Market,Mini Market,Deir Alla,Balqa,Central,SKU-2020,Full Cream Milk Powder,Dairy,400 g,54,In Stock,4.46,15/08/2026,Laith Qasem
+ST-032,Deir Alla Mini Market,Mini Market,Deir Alla,Balqa,Central,SKU-2021,Full Cream Milk Powder,Dairy,900 g,60,In Stock,9.19,15/08/2026,Laith Qasem
+ST-032,Deir Alla Mini Market,Mini Market,Deir Alla,Balqa,Central,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,10,In Stock,17.32,15/08/2026,Laith Qasem
+ST-032,Deir Alla Mini Market,Mini Market,Deir Alla,Balqa,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,14,In Stock,4.73,15/08/2026,Laith Qasem
+ST-032,Deir Alla Mini Market,Mini Market,Deir Alla,Balqa,Central,SKU-2024,Evaporated Milk,Dairy,410 g,57,In Stock,1,15/08/2026,Laith Qasem
+ST-032,Deir Alla Mini Market,Mini Market,Deir Alla,Balqa,Central,SKU-3030,Black Tea Loose,Beverages,400 g,32,In Stock,3.46,15/08/2026,Laith Qasem
+ST-032,Deir Alla Mini Market,Mini Market,Deir Alla,Balqa,Central,SKU-3031,Black Tea Bags,Beverages,100 bags,0,Out of Stock,2.89,15/08/2026,Laith Qasem
+ST-032,Deir Alla Mini Market,Mini Market,Deir Alla,Balqa,Central,SKU-3032,Green Tea Bags,Beverages,50 bags,9,In Stock,2.21,15/08/2026,Laith Qasem
+ST-032,Deir Alla Mini Market,Mini Market,Deir Alla,Balqa,Central,SKU-3034,Turkish Coffee Ground,Beverages,250 g,57,In Stock,2.99,15/08/2026,Laith Qasem
+ST-032,Deir Alla Mini Market,Mini Market,Deir Alla,Balqa,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,36,In Stock,0.89,15/08/2026,Laith Qasem
+ST-032,Deir Alla Mini Market,Mini Market,Deir Alla,Balqa,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,2,Low Stock,6.09,15/08/2026,Laith Qasem
+ST-032,Deir Alla Mini Market,Mini Market,Deir Alla,Balqa,Central,SKU-5054,Freekeh,Grains,1 kg,42,In Stock,3.1,15/08/2026,Laith Qasem
+ST-032,Deir Alla Mini Market,Mini Market,Deir Alla,Balqa,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,0,Out of Stock,0.73,15/08/2026,Laith Qasem
+ST-032,Deir Alla Mini Market,Mini Market,Deir Alla,Balqa,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,52,In Stock,0.84,15/08/2026,Laith Qasem
+ST-032,Deir Alla Mini Market,Mini Market,Deir Alla,Balqa,Central,SKU-7071,Halawa Plain,Spreads,450 g,8,In Stock,3.78,15/08/2026,Laith Qasem
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,4,Low Stock,2.15,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,0,Out of Stock,3.95,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,11,In Stock,2.45,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,21,In Stock,6.9,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-2020,Full Cream Milk Powder,Dairy,400 g,47,In Stock,4.25,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-2021,Full Cream Milk Powder,Dairy,900 g,0,Out of Stock,8.75,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-2023,Skimmed Milk Powder,Dairy,400 g,46,In Stock,4.5,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-2024,Evaporated Milk,Dairy,410 g,4,Low Stock,0.95,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-3030,Black Tea Loose,Beverages,400 g,5,Low Stock,3.3,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-3031,Black Tea Bags,Beverages,100 bags,4,Low Stock,2.75,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-3032,Green Tea Bags,Beverages,50 bags,5,Low Stock,2.1,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-3033,Instant Coffee,Beverages,200 g,5,Low Stock,6.4,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-3034,Turkish Coffee Ground,Beverages,250 g,2,Low Stock,2.85,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-4040,Tomato Paste,Canned Goods,800 g,36,In Stock,1.45,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,0,Out of Stock,0.85,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-4042,Chickpeas Canned,Canned Goods,400 g,7,In Stock,0.65,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-4043,Fava Beans Canned,Canned Goods,400 g,14,In Stock,0.6,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,44,In Stock,1.35,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,56,In Stock,5.8,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-5052,Basmati Rice,Grains,1 kg,46,In Stock,2.4,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-5053,Bulgur Coarse,Grains,1 kg,39,In Stock,1.1,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-5054,Freekeh,Grains,1 kg,0,Out of Stock,2.95,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-6060,All Purpose Flour,Baking,1 kg,42,In Stock,0.75,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,5,Low Stock,0.7,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-7070,Tahini,Spreads,400 g,32,In Stock,3.2,24/08/2026,Omar Haddad
+ST-033,Madaba Central Market,Supermarket,Madaba Center,Madaba,Central,SKU-7071,Halawa Plain,Spreads,450 g,35,In Stock,3.6,24/08/2026,Omar Haddad
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,0,Out of Stock,2.15,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,2,Low Stock,6.9,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-2021,Full Cream Milk Powder,Dairy,900 g,4,Low Stock,8.75,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,24,In Stock,16.5,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-2023,Skimmed Milk Powder,Dairy,400 g,9,In Stock,4.5,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-3030,Black Tea Loose,Beverages,400 g,42,In Stock,3.3,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-3031,Black Tea Bags,Beverages,100 bags,7,In Stock,2.75,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-3032,Green Tea Bags,Beverages,50 bags,51,In Stock,2.1,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-3033,Instant Coffee,Beverages,200 g,19,In Stock,6.4,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-3034,Turkish Coffee Ground,Beverages,250 g,18,In Stock,2.85,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-4040,Tomato Paste,Canned Goods,800 g,11,In Stock,1.45,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-4041,Tomato Paste,Canned Goods,400 g,0,Out of Stock,0.85,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-4042,Chickpeas Canned,Canned Goods,400 g,20,In Stock,0.65,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-4043,Fava Beans Canned,Canned Goods,400 g,20,In Stock,0.6,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,0,Out of Stock,1.35,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,1,Low Stock,0.9,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-5050,White Rice Egyptian,Grains,1 kg,56,In Stock,1.25,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-5051,White Rice Egyptian,Grains,5 kg,56,In Stock,5.8,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-5052,Basmati Rice,Grains,1 kg,59,In Stock,2.4,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-5053,Bulgur Coarse,Grains,1 kg,41,In Stock,1.1,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-5054,Freekeh,Grains,1 kg,7,In Stock,2.95,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-5055,Red Lentils,Grains,1 kg,46,In Stock,1.5,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-6060,All Purpose Flour,Baking,1 kg,52,In Stock,0.75,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-6062,Vermicelli Pasta,Pasta,400 g,48,In Stock,0.7,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-6063,Spaghetti Pasta,Pasta,500 g,5,Low Stock,0.8,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-7070,Tahini,Spreads,400 g,52,In Stock,3.2,23/08/2026,Yousef Nabulsi
+ST-034,Al Karak Family Market,Supermarket,Karak Center,Karak,South,SKU-7071,Halawa Plain,Spreads,450 g,0,Out of Stock,3.6,23/08/2026,Yousef Nabulsi
+ST-035,Tafileh Main Grocery,Grocery,Tafileh Center,Tafileh,South,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,37,In Stock,4.27,16/08/2026,Yousef Nabulsi
+ST-035,Tafileh Main Grocery,Grocery,Tafileh Center,Tafileh,South,SKU-2020,Full Cream Milk Powder,Dairy,400 g,15,In Stock,4.59,16/08/2026,Yousef Nabulsi
+ST-035,Tafileh Main Grocery,Grocery,Tafileh Center,Tafileh,South,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,0,Out of Stock,17.82,16/08/2026,Yousef Nabulsi
+ST-035,Tafileh Main Grocery,Grocery,Tafileh Center,Tafileh,South,SKU-2023,Skimmed Milk Powder,Dairy,400 g,16,In Stock,4.86,16/08/2026,Yousef Nabulsi
+ST-035,Tafileh Main Grocery,Grocery,Tafileh Center,Tafileh,South,SKU-3032,Green Tea Bags,Beverages,50 bags,6,In Stock,2.27,16/08/2026,Yousef Nabulsi
+ST-035,Tafileh Main Grocery,Grocery,Tafileh Center,Tafileh,South,SKU-3034,Turkish Coffee Ground,Beverages,250 g,46,In Stock,3.08,16/08/2026,Yousef Nabulsi
+ST-035,Tafileh Main Grocery,Grocery,Tafileh Center,Tafileh,South,SKU-4043,Fava Beans Canned,Canned Goods,400 g,36,In Stock,0.65,16/08/2026,Yousef Nabulsi
+ST-035,Tafileh Main Grocery,Grocery,Tafileh Center,Tafileh,South,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,9,In Stock,1.46,16/08/2026,Yousef Nabulsi
+ST-035,Tafileh Main Grocery,Grocery,Tafileh Center,Tafileh,South,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,55,In Stock,0.97,16/08/2026,Yousef Nabulsi
+ST-035,Tafileh Main Grocery,Grocery,Tafileh Center,Tafileh,South,SKU-5052,Basmati Rice,Grains,1 kg,0,Out of Stock,2.59,16/08/2026,Yousef Nabulsi
+ST-035,Tafileh Main Grocery,Grocery,Tafileh Center,Tafileh,South,SKU-5053,Bulgur Coarse,Grains,1 kg,42,In Stock,1.19,16/08/2026,Yousef Nabulsi
+ST-035,Tafileh Main Grocery,Grocery,Tafileh Center,Tafileh,South,SKU-5054,Freekeh,Grains,1 kg,8,In Stock,3.19,16/08/2026,Yousef Nabulsi
+ST-035,Tafileh Main Grocery,Grocery,Tafileh Center,Tafileh,South,SKU-5055,Red Lentils,Grains,1 kg,53,In Stock,1.62,16/08/2026,Yousef Nabulsi
+ST-035,Tafileh Main Grocery,Grocery,Tafileh Center,Tafileh,South,SKU-6060,All Purpose Flour,Baking,1 kg,24,In Stock,0.81,16/08/2026,Yousef Nabulsi
+ST-035,Tafileh Main Grocery,Grocery,Tafileh Center,Tafileh,South,SKU-6062,Vermicelli Pasta,Pasta,400 g,3,Low Stock,0.76,16/08/2026,Yousef Nabulsi
+ST-035,Tafileh Main Grocery,Grocery,Tafileh Center,Tafileh,South,SKU-7070,Tahini,Spreads,400 g,2,Low Stock,3.46,16/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,4,Low Stock,2.15,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,37,In Stock,2.45,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,1,Low Stock,6.9,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-2020,Full Cream Milk Powder,Dairy,400 g,54,In Stock,4.25,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-2021,Full Cream Milk Powder,Dairy,900 g,4,Low Stock,8.75,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,2,Low Stock,16.5,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-2023,Skimmed Milk Powder,Dairy,400 g,51,In Stock,4.5,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-2024,Evaporated Milk,Dairy,410 g,18,In Stock,0.95,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-3030,Black Tea Loose,Beverages,400 g,21,In Stock,3.3,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-3032,Green Tea Bags,Beverages,50 bags,53,In Stock,2.1,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-3034,Turkish Coffee Ground,Beverages,250 g,1,Low Stock,2.85,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-4040,Tomato Paste,Canned Goods,800 g,4,Low Stock,1.45,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-4042,Chickpeas Canned,Canned Goods,400 g,59,In Stock,0.65,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-4043,Fava Beans Canned,Canned Goods,400 g,28,In Stock,0.6,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,33,In Stock,0.9,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-5050,White Rice Egyptian,Grains,1 kg,23,In Stock,1.25,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-5051,White Rice Egyptian,Grains,5 kg,33,In Stock,5.8,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-5053,Bulgur Coarse,Grains,1 kg,0,Out of Stock,1.1,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-5054,Freekeh,Grains,1 kg,0,Out of Stock,2.95,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-6062,Vermicelli Pasta,Pasta,400 g,17,In Stock,0.7,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-6063,Spaghetti Pasta,Pasta,500 g,20,In Stock,0.8,25/08/2026,Yousef Nabulsi
+ST-036,Maan Central Market,Supermarket,Maan Center,Maan,South,SKU-7071,Halawa Plain,Spreads,450 g,0,Out of Stock,3.6,25/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,57,In Stock,2.09,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,20,In Stock,3.83,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,0,Out of Stock,2.38,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,4,Low Stock,6.69,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-2020,Full Cream Milk Powder,Dairy,400 g,5,Low Stock,4.12,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-2021,Full Cream Milk Powder,Dairy,900 g,5,Low Stock,8.49,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-2023,Skimmed Milk Powder,Dairy,400 g,45,In Stock,4.37,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-2024,Evaporated Milk,Dairy,410 g,49,In Stock,0.92,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-3030,Black Tea Loose,Beverages,400 g,19,In Stock,3.2,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-3031,Black Tea Bags,Beverages,100 bags,1,Low Stock,2.67,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-3032,Green Tea Bags,Beverages,50 bags,30,In Stock,2.04,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-3033,Instant Coffee,Beverages,200 g,0,Out of Stock,6.21,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-3034,Turkish Coffee Ground,Beverages,250 g,54,In Stock,2.76,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-4040,Tomato Paste,Canned Goods,800 g,33,In Stock,1.41,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-4041,Tomato Paste,Canned Goods,400 g,57,In Stock,0.82,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-4042,Chickpeas Canned,Canned Goods,400 g,32,In Stock,0.63,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-4043,Fava Beans Canned,Canned Goods,400 g,4,Low Stock,0.58,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,12,In Stock,1.31,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,0,Out of Stock,0.87,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-5050,White Rice Egyptian,Grains,1 kg,20,In Stock,1.21,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-5051,White Rice Egyptian,Grains,5 kg,0,Out of Stock,5.63,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-5052,Basmati Rice,Grains,1 kg,44,In Stock,2.33,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-5053,Bulgur Coarse,Grains,1 kg,27,In Stock,1.07,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-5055,Red Lentils,Grains,1 kg,0,Out of Stock,1.46,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-6060,All Purpose Flour,Baking,1 kg,4,Low Stock,0.73,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-6061,White Sugar,Baking,1 kg,21,In Stock,0.82,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-6062,Vermicelli Pasta,Pasta,400 g,11,In Stock,0.68,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-6063,Spaghetti Pasta,Pasta,500 g,22,In Stock,0.78,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-7070,Tahini,Spreads,400 g,37,In Stock,3.1,17/08/2026,Yousef Nabulsi
+ST-037,Aqaba Gateway Market,Hypermarket,Al Sakaneyya,Aqaba,South,SKU-7071,Halawa Plain,Spreads,450 g,5,Low Stock,3.49,17/08/2026,Yousef Nabulsi
+ST-038,Aqaba Corniche Mini Market,Mini Market,Al Corniche,Aqaba,South,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,10,In Stock,2.26,17/08/2026,Yousef Nabulsi
+ST-038,Aqaba Corniche Mini Market,Mini Market,Al Corniche,Aqaba,South,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,54,In Stock,4.15,17/08/2026,Yousef Nabulsi
+ST-038,Aqaba Corniche Mini Market,Mini Market,Al Corniche,Aqaba,South,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,60,In Stock,2.57,17/08/2026,Yousef Nabulsi
+ST-038,Aqaba Corniche Mini Market,Mini Market,Al Corniche,Aqaba,South,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,36,In Stock,7.25,17/08/2026,Yousef Nabulsi
+ST-038,Aqaba Corniche Mini Market,Mini Market,Al Corniche,Aqaba,South,SKU-2022,Full Cream Milk Powder,Dairy,1.8 kg,49,In Stock,17.32,17/08/2026,Yousef Nabulsi
+ST-038,Aqaba Corniche Mini Market,Mini Market,Al Corniche,Aqaba,South,SKU-3030,Black Tea Loose,Beverages,400 g,30,In Stock,3.46,17/08/2026,Yousef Nabulsi
+ST-038,Aqaba Corniche Mini Market,Mini Market,Al Corniche,Aqaba,South,SKU-3032,Green Tea Bags,Beverages,50 bags,58,In Stock,2.21,17/08/2026,Yousef Nabulsi
+ST-038,Aqaba Corniche Mini Market,Mini Market,Al Corniche,Aqaba,South,SKU-4041,Tomato Paste,Canned Goods,400 g,36,In Stock,0.89,17/08/2026,Yousef Nabulsi
+ST-038,Aqaba Corniche Mini Market,Mini Market,Al Corniche,Aqaba,South,SKU-4042,Chickpeas Canned,Canned Goods,400 g,5,Low Stock,0.68,17/08/2026,Yousef Nabulsi
+ST-038,Aqaba Corniche Mini Market,Mini Market,Al Corniche,Aqaba,South,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,39,In Stock,1.42,17/08/2026,Yousef Nabulsi
+ST-038,Aqaba Corniche Mini Market,Mini Market,Al Corniche,Aqaba,South,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,32,In Stock,0.95,17/08/2026,Yousef Nabulsi
+ST-038,Aqaba Corniche Mini Market,Mini Market,Al Corniche,Aqaba,South,SKU-5050,White Rice Egyptian,Grains,1 kg,52,In Stock,1.31,17/08/2026,Yousef Nabulsi
+ST-038,Aqaba Corniche Mini Market,Mini Market,Al Corniche,Aqaba,South,SKU-5051,White Rice Egyptian,Grains,5 kg,46,In Stock,6.09,17/08/2026,Yousef Nabulsi
+ST-038,Aqaba Corniche Mini Market,Mini Market,Al Corniche,Aqaba,South,SKU-5052,Basmati Rice,Grains,1 kg,11,In Stock,2.52,17/08/2026,Yousef Nabulsi
+ST-038,Aqaba Corniche Mini Market,Mini Market,Al Corniche,Aqaba,South,SKU-5053,Bulgur Coarse,Grains,1 kg,0,Out of Stock,1.16,17/08/2026,Yousef Nabulsi
+ST-038,Aqaba Corniche Mini Market,Mini Market,Al Corniche,Aqaba,South,SKU-6061,White Sugar,Baking,1 kg,3,Low Stock,0.89,17/08/2026,Yousef Nabulsi
+ST-038,Aqaba Corniche Mini Market,Mini Market,Al Corniche,Aqaba,South,SKU-6063,Spaghetti Pasta,Pasta,500 g,51,In Stock,0.84,17/08/2026,Yousef Nabulsi
+ST-038,Aqaba Corniche Mini Market,Mini Market,Al Corniche,Aqaba,South,SKU-7070,Tahini,Spreads,400 g,43,In Stock,3.36,17/08/2026,Yousef Nabulsi
+ST-039,Wadi Musa Market,Mini Market,Wadi Musa,Maan,South,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,22,In Stock,4.15,12/08/2026,Yousef Nabulsi
+ST-039,Wadi Musa Market,Mini Market,Wadi Musa,Maan,South,SKU-1012,Corn Cooking Oil,Cooking Oil,1.5 L,9,In Stock,2.57,12/08/2026,Yousef Nabulsi
+ST-039,Wadi Musa Market,Mini Market,Wadi Musa,Maan,South,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,0,Out of Stock,7.25,12/08/2026,Yousef Nabulsi
+ST-039,Wadi Musa Market,Mini Market,Wadi Musa,Maan,South,SKU-3030,Black Tea Loose,Beverages,400 g,50,In Stock,3.46,12/08/2026,Yousef Nabulsi
+ST-039,Wadi Musa Market,Mini Market,Wadi Musa,Maan,South,SKU-3034,Turkish Coffee Ground,Beverages,250 g,4,Low Stock,2.99,12/08/2026,Yousef Nabulsi
+ST-039,Wadi Musa Market,Mini Market,Wadi Musa,Maan,South,SKU-4040,Tomato Paste,Canned Goods,800 g,52,In Stock,1.52,12/08/2026,Yousef Nabulsi
+ST-039,Wadi Musa Market,Mini Market,Wadi Musa,Maan,South,SKU-4041,Tomato Paste,Canned Goods,400 g,18,In Stock,0.89,12/08/2026,Yousef Nabulsi
+ST-039,Wadi Musa Market,Mini Market,Wadi Musa,Maan,South,SKU-4043,Fava Beans Canned,Canned Goods,400 g,0,Out of Stock,0.63,12/08/2026,Yousef Nabulsi
+ST-039,Wadi Musa Market,Mini Market,Wadi Musa,Maan,South,SKU-4044,Tuna Chunks in Oil,Canned Goods,185 g,2,Low Stock,1.42,12/08/2026,Yousef Nabulsi
+ST-039,Wadi Musa Market,Mini Market,Wadi Musa,Maan,South,SKU-4045,Sweet Corn Canned,Canned Goods,340 g,8,In Stock,0.95,12/08/2026,Yousef Nabulsi
+ST-039,Wadi Musa Market,Mini Market,Wadi Musa,Maan,South,SKU-5050,White Rice Egyptian,Grains,1 kg,48,In Stock,1.31,12/08/2026,Yousef Nabulsi
+ST-039,Wadi Musa Market,Mini Market,Wadi Musa,Maan,South,SKU-5051,White Rice Egyptian,Grains,5 kg,29,In Stock,6.09,12/08/2026,Yousef Nabulsi
+ST-039,Wadi Musa Market,Mini Market,Wadi Musa,Maan,South,SKU-5054,Freekeh,Grains,1 kg,57,In Stock,3.1,12/08/2026,Yousef Nabulsi
+ST-039,Wadi Musa Market,Mini Market,Wadi Musa,Maan,South,SKU-5055,Red Lentils,Grains,1 kg,0,Out of Stock,1.58,12/08/2026,Yousef Nabulsi
+ST-039,Wadi Musa Market,Mini Market,Wadi Musa,Maan,South,SKU-6063,Spaghetti Pasta,Pasta,500 g,48,In Stock,0.84,12/08/2026,Yousef Nabulsi
+ST-040,Al Azraq Grocery,Grocery,Azraq,Zarqa,Central,SKU-1010,Sunflower Cooking Oil,Cooking Oil,1.5 L,13,In Stock,2.32,13/08/2026,Omar Haddad
+ST-040,Al Azraq Grocery,Grocery,Azraq,Zarqa,Central,SKU-1011,Sunflower Cooking Oil,Cooking Oil,3 L,24,In Stock,4.27,13/08/2026,Omar Haddad
+ST-040,Al Azraq Grocery,Grocery,Azraq,Zarqa,Central,SKU-1013,Olive Oil Extra Virgin,Cooking Oil,750 ml,0,Out of Stock,7.45,13/08/2026,Omar Haddad
+ST-040,Al Azraq Grocery,Grocery,Azraq,Zarqa,Central,SKU-2020,Full Cream Milk Powder,Dairy,400 g,5,Low Stock,4.59,13/08/2026,Omar Haddad
+ST-040,Al Azraq Grocery,Grocery,Azraq,Zarqa,Central,SKU-3030,Black Tea Loose,Beverages,400 g,14,In Stock,3.56,13/08/2026,Omar Haddad
+ST-040,Al Azraq Grocery,Grocery,Azraq,Zarqa,Central,SKU-3031,Black Tea Bags,Beverages,100 bags,21,In Stock,2.97,13/08/2026,Omar Haddad
+ST-040,Al Azraq Grocery,Grocery,Azraq,Zarqa,Central,SKU-3033,Instant Coffee,Beverages,200 g,42,In Stock,6.91,13/08/2026,Omar Haddad
+ST-040,Al Azraq Grocery,Grocery,Azraq,Zarqa,Central,SKU-4040,Tomato Paste,Canned Goods,800 g,47,In Stock,1.57,13/08/2026,Omar Haddad
+ST-040,Al Azraq Grocery,Grocery,Azraq,Zarqa,Central,SKU-4041,Tomato Paste,Canned Goods,400 g,26,In Stock,0.92,13/08/2026,Omar Haddad
+ST-040,Al Azraq Grocery,Grocery,Azraq,Zarqa,Central,SKU-4042,Chickpeas Canned,Canned Goods,400 g,32,In Stock,0.7,13/08/2026,Omar Haddad
+ST-040,Al Azraq Grocery,Grocery,Azraq,Zarqa,Central,SKU-5051,White Rice Egyptian,Grains,5 kg,3,Low Stock,6.26,13/08/2026,Omar Haddad
+ST-040,Al Azraq Grocery,Grocery,Azraq,Zarqa,Central,SKU-5052,Basmati Rice,Grains,1 kg,0,Out of Stock,2.59,13/08/2026,Omar Haddad
+ST-040,Al Azraq Grocery,Grocery,Azraq,Zarqa,Central,SKU-5054,Freekeh,Grains,1 kg,2,Low Stock,3.19,13/08/2026,Omar Haddad
+ST-040,Al Azraq Grocery,Grocery,Azraq,Zarqa,Central,SKU-6062,Vermicelli Pasta,Pasta,400 g,56,In Stock,0.76,13/08/2026,Omar Haddad
+ST-040,Al Azraq Grocery,Grocery,Azraq,Zarqa,Central,SKU-6063,Spaghetti Pasta,Pasta,500 g,47,In Stock,0.86,13/08/2026,Omar Haddad
+ST-040,Al Azraq Grocery,Grocery,Azraq,Zarqa,Central,SKU-7070,Tahini,Spreads,400 g,38,In Stock,3.46,13/08/2026,Omar Haddad

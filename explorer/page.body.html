@@ -1,0 +1,168 @@
+<div class="wrap">
+  <header class="top">
+    <div class="titles">
+      <p class="eyebrow">Part 2 · Answering from the Data</p>
+      <h1>Answer Path Explorer</h1>
+      <p class="lede">Step through how the reps' file becomes a search index, how a new post is tied to its products, and how one comment turns into a checked reply. The page runs the console's own code on the sample file, here in your browser.</p>
+    </div>
+    <div class="facts" id="facts"></div>
+  </header>
+
+  <nav class="tabs" role="tablist" aria-label="Views">
+    <button class="tab" role="tab" id="tab-paths" aria-controls="view-paths" aria-selected="true">The three paths</button>
+    <button class="tab" role="tab" id="tab-graph" aria-controls="view-graph" aria-selected="false">LangGraph workflow</button>
+    <button class="tab" role="tab" id="tab-search" aria-controls="view-search" aria-selected="false">Search lab</button>
+    <button class="tab" role="tab" id="tab-models" aria-controls="view-models" aria-selected="false">Models</button>
+  </nav>
+
+  <section class="view" id="view-paths" role="tabpanel" aria-labelledby="tab-paths">
+    <div class="pathpick" role="group" aria-label="Choose a path">
+      <button class="pp" data-path="data" aria-pressed="true"><span class="n">1</span><b>The data goes in</b><span class="s">CSV → catalog → three-way index → Blobs</span></button>
+      <button class="pp" data-path="post" aria-pressed="false"><span class="n">2</span><b>A new post</b><span class="s">The post graph links its products</span></button>
+      <button class="pp" data-path="comment" aria-pressed="false"><span class="n">3</span><b>A comment</b><span class="s">The ask graph drafts a checked reply</span></button>
+    </div>
+
+    <form class="card runbar" id="run-post" hidden>
+      <div class="fields">
+        <div class="field"><label for="post-seed">Start from a demo post</label><select id="post-seed"></select></div>
+        <div class="field"><label for="post-caption">Caption (edit it, then run)</label><textarea id="post-caption" dir="auto" rows="3"></textarea></div>
+        <button class="btn primary" id="post-run" type="submit">Run the post graph</button>
+      </div>
+    </form>
+
+    <form class="card runbar" id="run-comment" hidden>
+      <div class="fields">
+        <div class="field"><label for="c-post">Under the post</label><select id="c-post"></select></div>
+        <div class="field"><label for="c-text">Comment (type your own, Arabic or English)</label><input id="c-text" dir="auto" autocomplete="off" maxlength="300"></div>
+        <button class="btn primary" id="c-run" type="submit">Run the ask graph</button>
+      </div>
+      <div class="presets" id="c-presets"></div>
+    </form>
+
+    <div class="bench">
+      <div class="card seq-card">
+        <div class="seq-scroll"><div class="seq" id="seq"></div></div>
+        <div class="seq-legend"><span><i></i>a call or a write between two parts</span><span><i class="self"></i>work inside one part</span><span>Click a step, or use the ← → keys</span></div>
+      </div>
+      <aside class="card inspector" id="insp" aria-live="polite">
+        <div class="insp-top">
+          <p class="eyebrow" id="insp-step">Step 1</p>
+          <div class="player">
+            <button class="btn icon" id="b-prev" type="button" aria-label="Previous step">◀</button>
+            <button class="btn" id="b-play" type="button">Play</button>
+            <button class="btn icon" id="b-next" type="button" aria-label="Next step">▶</button>
+          </div>
+        </div>
+        <h2 class="insp-title" id="insp-title"></h2>
+        <div class="insp-where" id="insp-where"></div>
+        <p class="insp-text" id="insp-text"></p>
+        <div class="insp-live" id="insp-live"></div>
+      </aside>
+    </div>
+  </section>
+
+  <section class="view" id="view-graph" role="tabpanel" aria-labelledby="tab-graph" hidden>
+    <div class="graph-tools">
+      <div class="seg2" role="group" aria-label="Which graph">
+        <button type="button" data-g="ask" aria-pressed="true">Ask graph · one run per comment</button>
+        <button type="button" data-g="post" aria-pressed="false">Post graph · one run per post</button>
+      </div>
+      <div class="row">
+        <span class="small muted" id="g-run-label"></span>
+        <button class="btn primary" id="g-run" type="button">Replay the route</button>
+      </div>
+    </div>
+    <div class="card graph-card"><div class="graph-scroll" id="gwrap"></div><div class="seq-legend"><span><i></i>taken on this run, numbered in order</span><span>dashed: a router chooses (conditional edge)</span><span>solid: always taken (fixed edge)</span><span>purple nodes call an AI model or the hybrid search</span><span>Click any node or edge</span></div></div>
+    <div class="graph-grid">
+      <div class="card pad stack" id="g-insp"></div>
+      <div class="card pad stack" id="g-side"></div>
+    </div>
+  </section>
+
+  <section class="view" id="view-search" role="tabpanel" aria-labelledby="tab-search" hidden>
+    <form class="card lab-in" id="lab-form">
+      <div class="field"><label for="q">Words to look up (a product or a place, as a customer writes it)</label><input id="q" dir="auto" autocomplete="off" maxlength="80"></div>
+      <div class="field"><span class="label">Look among</span>
+        <div class="seg2" role="group" aria-label="Look among" id="q-scope">
+          <button type="button" data-s="prod" aria-pressed="true">Products</button>
+          <button type="button" data-s="place" aria-pressed="false">Places and shops</button>
+        </div>
+      </div>
+      <button class="btn primary" id="q-run" type="submit">Search</button>
+    </form>
+    <div class="presets" id="q-presets"></div>
+    <div class="lab-grid">
+      <div class="stack-lg" id="lab-left"></div>
+      <div class="stack-lg" id="lab-right"></div>
+    </div>
+  </section>
+
+  <section class="view" id="view-models" role="tabpanel" aria-labelledby="tab-models" hidden>
+    <div class="models-grid">
+      <article class="card model ai">
+        <p class="tag">AI model · reads and writes</p>
+        <h3>Groq · openai/gpt-oss-120b</h3>
+        <dl class="kv">
+          <dt>Used by</dt><dd>understand_comment and write_answer in the ask graph; spot_products in the post graph. The short thank-you and hand-off texts come from the same reading call.</dd>
+          <dt>Settings</dt><dd>A strict JSON schema on every call, reasoning effort low, at most 1,000 output tokens (GROQ_MAX_TOKENS, 300 to 4,000).</dd>
+          <dt>Free tier</dt><dd>30 requests and 8,000 tokens a minute; 1,000 requests and 200,000 tokens a day. The job drafts one comment at a time and waits out a 429 for the time Groq gives.</dd>
+          <dt>The model</dt><dd>OpenAI's open-weight mixture-of-experts model: 117B parameters, 5.1B active per token (4 of 128 experts), 128K context, Apache 2.0. It reads text only, so a post is read from its caption.</dd>
+          <dt>Without a key</dt><dd>Rules read comments and captions; templates write the replies.</dd>
+        </dl>
+      </article>
+      <article class="card model ai">
+        <p class="tag">AI model · search by meaning</p>
+        <h3>Jina · jina-embeddings-v5-text-small</h3>
+        <dl class="kv">
+          <dt>Used by</dt><dd>The index (all 436 names in one call at upload) and find_entities (the comment's product and place words).</dd>
+          <dt>Settings</dt><dd>256 numbers per text (the model is trained so 1,024 can be cut to 256), task text-matching, vectors normalized and stored as base64 Float32.</dd>
+          <dt>The model</dt><dd>677M parameters, built on Qwen3-0.6B, 1,024 dimensions, 119+ languages, 32K-token context.</dd>
+          <dt>Without a key</dt><dd>Search runs on BM25 and character vectors, as on this page.</dd>
+        </dl>
+      </article>
+      <article class="card model plain">
+        <p class="tag">Method · search by words</p>
+        <h3>BM25</h3>
+        <p class="body">k1 = 1.2, b = 0.75. Each Arabic word is also indexed without its prefixes (<bdi>و</bdi>, <bdi>ب</bdi>, <bdi>ل</bdi>, <bdi>ك</bdi>, <bdi>ف</bdi>, <bdi>ال</bdi>), so <bdi>بالزرقا</bdi> meets <bdi>الزرقا</bdi>. A word found in fewer names weighs more.</p>
+      </article>
+      <article class="card model plain">
+        <p class="tag">Method · search by spelling</p>
+        <h3>Character vectors</h3>
+        <p class="body">Every piece of 2, 3 and 4 letters, with # at the word edges, is hashed (FNV-1a) into one of 512 slots; longer pieces weigh more; the vector has length 1. A typo keeps most pieces: <bdi>زيتوون</bdi> and <bdi>زيتون</bdi> score 0.81.</p>
+      </article>
+      <article class="card model plain">
+        <p class="tag">Method · one ranking from three</p>
+        <h3>Reciprocal rank fusion</h3>
+        <p class="body">score = Σ 1 / (60 + rank) over the rankings, plus 0.05 for an exact name. Ranks need no tuning of score scales between BM25, cosines and Jina.</p>
+      </article>
+      <article class="card model plain">
+        <p class="tag">Framework · runs the steps</p>
+        <h3>LangGraph.js</h3>
+        <p class="body">Two StateGraphs with typed channels. The post graph has 4 nodes; the ask graph has 11 nodes, 3 conditional routers, 9 fixed edges and 20 state channels. If LangGraph cannot load, the same definition runs on a small built-in runner.</p>
+      </article>
+    </div>
+    <div class="card pad stack">
+      <h3>Which step uses what</h3>
+      <div class="tbl-wrap">
+        <table class="t matrix">
+          <tr><th>Step</th><th>Groq</th><th>Jina</th><th>BM25 + characters</th><th>Table filter</th><th>Without keys</th></tr>
+          <tr><td>Index the names (upload)</td><td class="n">·</td><td class="y">●</td><td class="y">●</td><td class="n">·</td><td>BM25 and characters only</td></tr>
+          <tr><td>spot_products (post)</td><td class="y">●</td><td class="n">·</td><td class="n">·</td><td class="n">·</td><td>Rules read the caption</td></tr>
+          <tr><td>link_catalog (post)</td><td class="n">·</td><td class="y">●</td><td class="y">●</td><td class="n">·</td><td>BM25 and characters</td></tr>
+          <tr><td>understand_comment</td><td class="y">●</td><td class="n">·</td><td class="n">·</td><td class="n">·</td><td>Rules read the comment</td></tr>
+          <tr><td>find_entities</td><td class="n">·</td><td class="y">●</td><td class="y">●</td><td class="n">·</td><td>BM25 and characters</td></tr>
+          <tr><td>check_shelves</td><td class="n">·</td><td class="n">·</td><td class="n">·</td><td class="y">●</td><td>The same</td></tr>
+          <tr><td>write_answer</td><td class="y">●</td><td class="n">·</td><td class="n">·</td><td class="n">·</td><td>Template</td></tr>
+          <tr><td>fact_check</td><td class="n">·</td><td class="n">·</td><td class="n">·</td><td class="y">●</td><td>The same</td></tr>
+          <tr><td>ask_clarify, write_courtesy, hand_off</td><td class="f">text only</td><td class="n">·</td><td class="n">·</td><td class="n">·</td><td>Templates</td></tr>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <footer class="foot">
+    <p><b>What runs on this page.</b> The console's own ingest, hybrid search (BM25 and character vectors), table query, rules, templates, fact check and both graph definitions, bundled from the same source files as the Netlify functions.</p>
+    <p><b>What does not.</b> Groq and Jina need keys. Here the graphs read with the backend's rules and write with its templates, and search fuses two rankings instead of three. The graphs run on the backend's built-in runner, which executes the definition LangGraph compiles on Netlify.</p>
+    <p><b>The data.</b> The sample pos_availability.csv from the brief: 936 shelf visits from 12 to 25 August 2026, 40 shops, 27 products.</p>
+  </footer>
+</div>

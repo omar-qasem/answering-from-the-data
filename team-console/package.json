@@ -1,0 +1,19 @@
+{
+  "name": "bayt-al-mouneh-team-console",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Marketing team console: LangGraph drafts replies to customers' availability questions from the latest shelf visits.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/check-build.mjs"
+  },
+  "dependencies": {
+    "@langchain/core": "^1.0.0",
+    "@langchain/langgraph": "^1.0.0",
+    "@netlify/blobs": "^8.1.0 || ^9.0.0 || ^10.0.0 || ^11.0.0",
+    "zod": "^3.25.0 || ^4.0.0"
+  }
+}

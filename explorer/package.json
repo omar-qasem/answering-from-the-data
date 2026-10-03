@@ -1,0 +1,15 @@
+{
+  "name": "answer-path-explorer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Interactive explorer of the Part 2 console: the console's own modules bundled for the browser.",
+  "scripts": {
+    "build": "node build.mjs && node assemble.mjs",
+    "test": "tsx test-engine.ts"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0",
+    "tsx": "^4.19.0"
+  }
+}

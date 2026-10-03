@@ -1,0 +1,40 @@
+import { readFileSync } from 'node:fs';
+import { buildDataset } from '../team-console/src/ingest';
+import { Catalog } from '../team-console/src/query';
+import { templateAnswer, templateClarify, templateCourtesy, templateHandoff, checkReply, basisOf, factsFor } from '../team-console/src/reply';
+const csv = readFileSync(new URL('../team-console/public/sample/pos_availability.csv', import.meta.url), 'utf8');
+const cat = new Catalog(buildDataset(csv));
+const P = (id: string) => cat.place(cat.entries.get(id)!);
+let templateProblems = 0;
+const show = (label: string, ids: string[], place: string | null, lang: 'ar' | 'en', name: string, wantsPrice = false, packText = '') => {
+  const answers = ids.map((id) => cat.productAnswer(id, { place: place ? P(place) : null, packText }));
+  const txt = templateAnswer(answers, { lang, name, wantsPrice });
+  const probs = checkReply(txt, answers, cat, { wantsPrice });
+  templateProblems += probs.length;
+  console.log(`\n--- ${label} [check: ${probs.length ? probs.join(' | ') : 'ok'}]\n${txt}`);
+  return answers;
+};
+show('olive oil Khalda', ['product:olive oil extra virgin'], 'area:khalda', 'ar', 'سارة');
+show('olive oil Zarqa', ['product:olive oil extra virgin'], 'city:zarqa', 'ar', 'أحمد');
+show('olive oil Aqaba EN', ['product:olive oil extra virgin'], 'city:aqaba', 'en', 'Emily');
+show('freekeh Amman', ['product:freekeh'], 'city:amman', 'ar', 'ميس');
+show('tahini+halawa Madaba', ['product:tahini', 'product:halawa plain'], 'city:madaba', 'ar', 'أحمد');
+show('green tea Jubaiha', ['product:green tea bags'], 'area:al jubaiha', 'ar', 'سارة');
+show('coffee Abdoun EN', ['product:turkish coffee ground'], 'area:abdoun', 'en', 'Emily');
+show('coffee at Sameh Abdoun', ['product:turkish coffee ground'], 'store:st-002', 'ar', 'طارق');
+show('milk big Irbid', ['product:full cream milk powder'], 'city:irbid', 'ar', 'رانيا', false, 'الكبير ٢ كيلو');
+const a = show('milk no place', ['product:full cream milk powder'], null, 'ar', 'يوسف');
+show('milk no place EN price', ['product:full cream milk powder'], null, 'en', 'Emily', true);
+show('rice basmati Marka', ['product:basmati rice'], 'area:marka', 'ar', 'لينا');
+show('olive oil price', ['product:olive oil extra virgin'], null, 'ar', 'لينا', true);
+show('olive oil 2kg Amman', ['product:olive oil extra virgin'], 'city:amman', 'ar', 'لينا', false, '2 كيلو');
+show('region north', ['product:tahini'], 'region:north', 'ar', '');
+console.log('\n' + templateClarify({ lang: 'ar', name: 'لينا', options: ['أرز مصري', 'أرز بسمتي'], askPlace: false, slot: 'product' }));
+console.log(templateClarify({ lang: 'en', name: 'Emily', options: ['loose black tea', 'black tea bags', 'green tea'], askPlace: true, slot: 'product' }));
+console.log(templateCourtesy('ar', 'رانيا'), '|', templateHandoff('ar', 'طارق', 'complaint'), '|', templateHandoff('en', 'Emily', 'question'));
+// fact check on a bad AI reply
+const bad = 'أهلاً يوسف! حليب البودرة متوفر عند كارفور الجاليريا وسيفوي الشميساني (آخر زيارة 3 أيلول) وسعره 5.99 دينار';
+console.log('\ncheck bad:', checkReply(bad, cat.productAnswer('product:full cream milk powder', { place: P('area:khalda') }) ? [cat.productAnswer('product:full cream milk powder', { place: P('area:khalda') })] : [], cat, { wantsPrice: false }));
+console.log('basis sample:', basisOf(a).slice(0, 3));
+console.log('facts sample:', JSON.stringify(factsFor([cat.productAnswer('product:olive oil extra virgin', { place: P('area:khalda') })], { lang: 'ar', name: 'سارة', wantsPrice: false, today: '2026-10-01' })).slice(0, 900));
+if (templateProblems) { console.log(`${templateProblems} template reply problem(s)`); process.exitCode = 1; }

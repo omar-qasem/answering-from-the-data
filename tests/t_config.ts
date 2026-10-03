@@ -1,0 +1,38 @@
+import assert from 'node:assert/strict';
+import { embedConfig, llmConfig } from '../team-console/src/llm';
+const show = (label: string, env: Record<string, string>) => {
+  const chat = llmConfig(env);
+  const emb = embedConfig(env, chat);
+  console.log(label.padEnd(34), 'chat:', chat ? `${chat.provider}/${chat.model}` : 'none', '| embeddings:', emb ? `${emb.provider}/${emb.model}` : 'none');
+  return { chat, emb };
+};
+let r = show('Jina only', { JINA_API_KEY: 'jina_x' });
+assert.equal(r.chat, null); assert.equal(r.emb?.provider, 'jina');
+r = show('Gemini only', { GEMINI_API_KEY: 'k' });
+assert.equal(r.chat?.provider, 'gemini'); assert.equal(r.emb?.provider, 'gemini');
+r = show('Gemini + Jina', { GEMINI_API_KEY: 'k', JINA_API_KEY: 'jina_x' });
+assert.equal(r.chat?.provider, 'gemini'); assert.equal(r.emb?.provider, 'jina');
+r = show('OpenAI + Jina, EMBED_PROVIDER=openai', { OPENAI_API_KEY: 'k', JINA_API_KEY: 'jina_x', EMBED_PROVIDER: 'openai' });
+assert.equal(r.chat?.provider, 'openai'); assert.equal(r.emb?.provider, 'openai');
+r = show('nothing', {});
+assert.equal(r.chat, null); assert.equal(r.emb, null);
+r = show('LLM_PROVIDER=none + Gemini + Jina', { GEMINI_API_KEY: 'k', JINA_API_KEY: 'jina_x', LLM_PROVIDER: 'none' });
+assert.equal(r.chat, null); assert.equal(r.emb?.provider, 'jina');
+r = show('Groq only', { GROQ_API_KEY: 'gsk_x' });
+assert.equal(r.chat?.provider, 'groq'); assert.equal(r.chat?.model, 'openai/gpt-oss-120b'); assert.equal(r.chat?.maxOut, 1000); assert.equal(r.emb, null);
+r = show('Groq + Jina', { GROQ_API_KEY: 'gsk_x', JINA_API_KEY: 'jina_x' });
+assert.equal(r.chat?.provider, 'groq'); assert.equal(r.emb?.provider, 'jina');
+r = show('Groq + Gemini + OpenAI + Jina', { GROQ_API_KEY: 'gsk_x', GEMINI_API_KEY: 'k', OPENAI_API_KEY: 'k', JINA_API_KEY: 'jina_x' });
+assert.equal(r.chat?.provider, 'groq'); assert.equal(r.emb?.provider, 'jina');
+r = show('Groq + Gemini, LLM_PROVIDER=gemini', { GROQ_API_KEY: 'gsk_x', GEMINI_API_KEY: 'k', LLM_PROVIDER: 'gemini' });
+assert.equal(r.chat?.provider, 'gemini'); assert.equal(r.emb?.provider, 'gemini');
+r = show('Groq + Gemini (no Jina)', { GROQ_API_KEY: 'gsk_x', GEMINI_API_KEY: 'k' });
+assert.equal(r.chat?.provider, 'groq'); assert.equal(r.emb, null); // Groq has no embeddings; Jina is the way to add them
+r = show('Groq, GROQ_MODEL + GROQ_MAX_TOKENS', { GROQ_API_KEY: 'gsk_x', GROQ_MODEL: ' llama-3.3-70b-versatile ', GROQ_MAX_TOKENS: '1500' });
+assert.equal(r.chat?.model, 'llama-3.3-70b-versatile'); assert.equal(r.chat?.maxOut, 1500);
+assert.equal(llmConfig({ GROQ_API_KEY: 'Bearer gsk_abc' })!.apiKey, 'gsk_abc');
+assert.equal(llmConfig({ GROQ_API_KEY: 'gsk_x', GROQ_MAX_TOKENS: '9000' })!.maxOut, 4000);
+assert.equal(llmConfig({ GROQ_API_KEY: 'gsk_x', GROQ_MAX_TOKENS: '50' })!.maxOut, 300);
+for (const raw of ['"AQ.abc"', "'AQ.abc'", 'x-goog-api-key: AQ.abc', '  AQ.abc  ', 'Bearer AQ.abc']) assert.equal(llmConfig({ GEMINI_API_KEY: raw })!.apiKey, 'AQ.abc', raw);
+assert.equal(embedConfig({ JINA_API_KEY: 'Bearer jina_x' }, null)!.apiKey, 'jina_x');
+console.log('config combinations OK (Groq first, Jina for search), keys cleaned of quotes and header names');

@@ -1,0 +1,18 @@
+import { readFileSync } from 'node:fs';
+import { buildDataset, entriesMissingArabic, parseDate, parseStatus } from '../team-console/src/ingest';
+import { normalize, tokensWithVariants } from '../team-console/src/text';
+import assert from 'node:assert/strict';
+const csv = readFileSync(new URL('../team-console/public/sample/pos_availability.csv', import.meta.url), 'utf8');
+const ds = buildDataset(csv);
+console.log(ds.meta);
+const byType: Record<string, number> = {};
+for (const e of ds.entries) byType[e.type] = (byType[e.type] || 0) + 1;
+console.log(byType);
+assert.equal(ds.rows.length, 936);
+assert.equal(byType.product, 27); assert.equal(byType.store, 40); assert.equal(byType.city, 12);
+console.log('areas (not cities):', byType.area, '| missing Arabic:', entriesMissingArabic(ds.entries).map(e => e.id));
+console.log(ds.entries.filter(e => e.type === 'store').map(e => `${e.name} -> ${e.name_ar}`).join('\n'));
+assert.equal(parseDate('19/08/2026'), '2026-08-19'); assert.equal(parseDate('2026-08-19'), '2026-08-19'); assert.equal(parseDate('08/19/2026'), '2026-08-19'); assert.equal(parseDate('31/02/2026'), null);
+assert.equal(parseStatus('In Stock', 10), 'in_stock'); assert.equal(parseStatus('Low Stock', 3), 'low_stock'); assert.equal(parseStatus('Out of Stock', 0), 'out_of_stock'); assert.equal(parseStatus('', 0), 'out_of_stock'); assert.equal(parseStatus('متوفر', null), 'in_stock'); assert.equal(parseStatus('غير متوفر', null), 'out_of_stock');
+console.log(normalize('وين بلاقيه بالزرقاء؟ عمّان ١.٨ كيلو!!'), '|', tokensWithVariants('بالزرقا وخلدا للعقبة'));
+console.log('ingest OK');

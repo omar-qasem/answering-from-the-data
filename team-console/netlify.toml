@@ -1,0 +1,19 @@
+# Team console: a static page (public/) plus the API as Netlify Functions (netlify/functions/).
+[build]
+  command = "npm run build"
+  publish = "public"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+  # LangGraph is loaded from node_modules at run time instead of being bundled.
+  external_node_modules = ["@langchain/langgraph", "@langchain/core"]
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"

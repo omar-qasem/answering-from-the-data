@@ -1,0 +1,10 @@
+{
+  "name": "part2-tests",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Unit tests for the team console, run against ../team-console/src.",
+  "scripts": {
+    "test": "./run-all.sh"
+  }
+}
