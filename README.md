@@ -9,7 +9,6 @@
 ![Search](https://img.shields.io/badge/search-BM25%20%2B%20vectors%20%2B%20RRF-6E56CF)
 ![Tests](https://img.shields.io/badge/tests-10%20suites%20passing-2EA44F)
 
-> By Omar Qasem. Companion project: [email-to-clickup-automation-n8n](https://github.com/omar-qasem/email-to-clickup-automation-n8n), an n8n automation that turns work emails into ClickUp tasks.
 
 ---
 
